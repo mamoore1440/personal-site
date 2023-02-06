@@ -19,6 +19,8 @@ footer:
       href: '/blog'
     - title: 'Schizo'
       href: '/schizo'
+    - title: 'Notes'
+      href: '/notes'
     - title: 'The Model'
       href: '/model'
     - title: 'The "Book"'
