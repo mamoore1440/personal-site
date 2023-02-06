@@ -1,6 +1,6 @@
 navbar:
   signatureNavItem: 
-    title: 'Example Website'
+    title: 'Mamoore1440'
     href: '/'
   navItems: 
     - title: 'Blog'
@@ -25,5 +25,5 @@ footer:
       href: '/mode/hmt-book'
   imageNavItems:
     youtubeUrl: 'https://youtube.com'
-    githubUrl: 'https://github.com/mamoore1440
+    githubUrl: 'https://github.com/mamoore1440'
 
