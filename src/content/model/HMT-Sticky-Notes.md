@@ -20,6 +20,10 @@ Unfold all: ctrl K, ctrl J
 ASV is assigned to one of these (if any).
 
 ### How To Use The Model:
+* Bitcoin doesn't last forever. Eventually the chain will become so big that it will not be workable. This implies there will be a need for a different currency in the future.
+
+
+### How To Use The Model:
 * Another benefit to the model's abstractness is that you can view real world events through the model and gain insight. Academics loves criticing media through different lenses. Little Woman through a Marxist lens; Economics through a Keynsian lens, Austrian, or Chicagoian lens. This is another lens you can view reality through.
 
 

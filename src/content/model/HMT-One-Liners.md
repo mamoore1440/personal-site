@@ -22,6 +22,7 @@ tags: []
 * Pre-Sin there are two time frames to view economics. Short-term which is intra moment; and long-term which is at infinity. No other time frame inbetween matters.
 * GDP is how much Supply was exchanged in a year in terms of ASV.
 * When debt is allocated successfully Value is pulled forward in time!
+
 * Debt pulls S&D Connections forward in time that are percieved to both take place in the future and be profitable in the present. This does not mean the S&D Connections were guaranteed to take place at all!
 
 * We've been wasting production since the 80's. There was no point in keep the work week at 40hrs. It should have been dropping steadily since.

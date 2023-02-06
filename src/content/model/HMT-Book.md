@@ -269,27 +269,27 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   SUS is Subjective Utility for a Subject
 
   ### A Quick Example To Understand Decision Making
-    In a moment there are two possible S&D Connections with different OUS and SUS. The Human can only facilitate one of the possible Connections.
-    
-    Possible Connection A has OUS = 20 & SUS = 30
-    Possible Connection B has OUS = 50 & SUS = 5
+  In a moment there are two possible S&D Connections with different OUS and SUS. The Human can only facilitate one of the possible Connections.
+  
+  Possible Connection A has OUS = 20 & SUS = 30
+  Possible Connection B has OUS = 50 & SUS = 5
 
-    Because there is one Human there only one Subject. This means that the Subject (the final 'S') in OUS and SUS has to be for this one Human. There is an Objective/Subjective split (the first letter; 'O' and 'S') because there is a true change and an expected change. The true change is Objective while the expected change is Subjective. 
+  Because there is one Human there only one Subject. This means that the Subject (the final 'S') in OUS and SUS has to be for this one Human. There is an Objective/Subjective split (the first letter; 'O' and 'S') because there is a true change and an expected change. The true change is Objective while the expected change is Subjective. 
 
-    For all Possible Connections between any S&D there is a single OUS for every Human. This is because there is an Objectively true change all Human's will have for their Internal Utility when a S&D Connection happens. The 'S' in "OUS" is the Subject in context. For now, because we only have one Human, the Subject will always be this one Human. When we have two people there will be two OUSs per possible S&D Connection. The two OUSs will have different Subjects (the two different Humans).
-    
-    In regards to SUS it is not that simple. Every Human has a different perspective and thus every Human has a different percieved outcome. This is where SUS, which is different than OUS, comes into play. The first 'S' in "SUS" refers to the Human doing to Subjecting. The 'U' is Utility. And the last 'S' is about the Human who is affected. It is important to understand that every Human will have a SUS for every other Human as the subject in regard to every possible S&D Connection. There were three "every"s in that sentence so it's very easy to see that there gets to be a lot of information to handle very quickly. 
-    
-    For now because we only have one Human there is only one OUS and only one SUS per possible S&D Connection. When we have two Humans there will be one OUS per Human for each possible S&D Connection. There will also be 4 SUS per possible S&D Connection. Each Human will do the Subjecting and be the Subject.
+  For all Possible Connections between any S&D there is a single OUS for every Human. This is because there is an Objectively true change all Human's will have for their Internal Utility when a S&D Connection happens. The 'S' in "OUS" is the Subject in context. For now, because we only have one Human, the Subject will always be this one Human. When we have two people there will be two OUSs per possible S&D Connection. The two OUSs will have different Subjects (the two different Humans).
+  
+  In regards to SUS it is not that simple. Every Human has a different perspective and thus every Human has a different percieved outcome. This is where SUS, which is different than OUS, comes into play. The first 'S' in "SUS" refers to the Human doing to Subjecting. The 'U' is Utility. And the last 'S' is about the Human who is affected. It is important to understand that every Human will have a SUS for every other Human as the subject in regard to every possible S&D Connection. There were three "every"s in that sentence so it's very easy to see that there gets to be a lot of information to handle very quickly. 
+  
+  For now because we only have one Human there is only one OUS and only one SUS per possible S&D Connection. When we have two Humans there will be one OUS per Human for each possible S&D Connection. There will also be 4 SUS per possible S&D Connection. Each Human will do the Subjecting and be the Subject.
 
-    Quick Table:
-    Number of Humans  | Number of OUS / possible Connection | Number of SUS / possible Connection  
-    1                 | 1                                   | 1
-    2                 | 2                                   | 4
-    3                 | 3                                   | 9
-    n                 | n                                   | n*n
+  Quick Table:
+  Number of Humans  | Number of OUS / possible Connection | Number of SUS / possible Connection  
+  1                 | 1                                   | 1
+  2                 | 2                                   | 4
+  3                 | 3                                   | 9
+  n                 | n                                   | n*n
 
-    Here the Human will choose to facilitate Connection A because the SUS is higher. But objectively this was an awful decision; Connecion B offer over twice the OUS!
+  Here the Human will choose to facilitate Connection A because the SUS is higher. But objectively this was an awful decision; Connecion B offer over twice the OUS!
 
   Based on the example it is very easy to see that Humans are dumb! They will choose to facilitate S&D Connections that do not maximize OUS. They will choose to facilitate S&D Connections that maximize SUS in an attempt to maximize OUS. Not every time will the Human be wrong. More often than not Humans will make the OUS maximizing decions. In this case the single Human will have made a "bad" decision, but it won't matter: OUS was positive and ignorance is bliss. As far as the Human is concerned he made the OUS maximizing decision. 
   
@@ -315,85 +315,85 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   In pre-sin there is only one assumption. That given any choice the Human will make the Utility Maximizing decision for the biggest group of Humans. What do I mean by this? Humans will always prioritize each other over themselves in this way. In this way there will never be hoarding, no one will be to lazy to work, etc. 
 
   ### Example 1:
-    We have two possible Connections where Adam decides which Connection is to be facilitated. Only one Connection can take place.
-    Here the Subjecting force is Adam. The first 'S' in SUS here is Adam. The second 'S' in SUS for this example is for Adam, Eve, and both in that order.
+  We have two possible Connections where Adam decides which Connection is to be facilitated. Only one Connection can take place.
+  Here the Subjecting force is Adam. The first 'S' in SUS here is Adam. The second 'S' in SUS for this example is for Adam, Eve, and both in that order.
 
-    Possible Connection A
-      - OUS = 20 & SUS = 30 for Adam
-      - OUS = 15 & SUS = 10 for Eve
-    Possible Connection B
-      - OUS = 30 & SUS = 25 for both Adam and Eve
+  Possible Connection A
+    - OUS = 20 & SUS = 30 for Adam
+    - OUS = 15 & SUS = 10 for Eve
+  Possible Connection B
+    - OUS = 30 & SUS = 25 for both Adam and Eve
 
-    To briefly talk about SUS and OUS for the example: here we know that Adam views Connection A as offering 30 Utility for Adam and 10 Utility for Eve. We also know that the objective change in internal Utility for Adam and Eve will be 20 and 15 respectively. Adam's estimations are decent. He in correct in his estimation that he will enjoy Connection A more than Eve and that Connection B offers better Utility overall.
+  To briefly talk about SUS and OUS for the example: here we know that Adam views Connection A as offering 30 Utility for Adam and 10 Utility for Eve. We also know that the objective change in internal Utility for Adam and Eve will be 20 and 15 respectively. Adam's estimations are decent. He in correct in his estimation that he will enjoy Connection A more than Eve and that Connection B offers better Utility overall.
 
-    Here Adam will choose to facilitate Connection B simply because in B there is greater SUS for everyone. 25 + 25 > 30 + 10. Adam will have facilitated the Connection that creates the most OUS for everyone. While this is the goal for all Humans pre-sin it is not always the case. In the example provided if Connection B had offered 10 SUS for both Adam and Eve then Adam would have chosen to facilitate Connection A. This would not have been the OUS optimizing decision, however, Humans are generally pretty good at making rational choices so Adam and Eve would live rather happy lives together simply because they are both choosing to make Connections that optimize OUS for everyone. Even if they aren't perfectly optimal they are still very happy in both the short and long run. 
+  Here Adam will choose to facilitate Connection B simply because in B there is greater SUS for everyone. 25 + 25 > 30 + 10. Adam will have facilitated the Connection that creates the most OUS for everyone. While this is the goal for all Humans pre-sin it is not always the case. In the example provided if Connection B had offered 10 SUS for both Adam and Eve then Adam would have chosen to facilitate Connection A. This would not have been the OUS optimizing decision, however, Humans are generally pretty good at making rational choices so Adam and Eve would live rather happy lives together simply because they are both choosing to make Connections that optimize OUS for everyone. Even if they aren't perfectly optimal they are still very happy in both the short and long run. 
 
   This will be the case for the majority of S&D Connections. Most of the time Adam and Eve will do their own thing. They will take each other into account but most of the time they will focus on maximizing their own Internal Utility simply because they are in the position to do so to the greatest extent. While Eve could Adam happy, Adam can certainly make Adam happy.
 
   This was an example of pre-sin decision making for one Human between two connections. Let's switch it around and have two Humans with one possible Connection. This will be done by having one Supply that both Adam and Eve Demand. Only one Demand can Connection with the Supply, so only one Human can have a successful Demand for the Supply. In the real world this might be one crab to eat, one chair to sit in, etc.
 
   ### Example 2:
-    We have one Supply with Demands coming from both Adam and Eve. Adam and Eve both have their OUS and SUS in regards to both S&D Connections. 
+  We have one Supply with Demands coming from both Adam and Eve. Adam and Eve both have their OUS and SUS in regards to both S&D Connections. 
 
-    Possible Connection A (Adam's Demand Connects with the single Supply)
-      - Objective:
-        - OUS = 30 for Adam
-        - OUS = -3 for Eve
-      - Adam's perspective:
-        - SUS = 40 for Adam
-        - SUS = -1 for Eve
-      - Eve's perspective:
-        - SUS = 10 for Adam
-        - SUS = -5 for Eve
+  Possible Connection A (Adam's Demand Connects with the single Supply)
+    - Objective:
+      - OUS = 30 for Adam
+      - OUS = -3 for Eve
+    - Adam's perspective:
+      - SUS = 40 for Adam
+      - SUS = -1 for Eve
+    - Eve's perspective:
+      - SUS = 10 for Adam
+      - SUS = -5 for Eve
 
-    Possible Connection B (Eve's Demand Connects with the single Supply)
-      - Objective:
-        - OUS = -1 for Adam
-        - OUS = 20 for Eve
-      - Adam's perspective:
-        - SUS = 0 for Adam
-        - SUS = 10 for Eve
-      - Eve's perspective:
-        - SUS = 1 for Adam
-        - SUS = 30 for Eve
+  Possible Connection B (Eve's Demand Connects with the single Supply)
+    - Objective:
+      - OUS = -1 for Adam
+      - OUS = 20 for Eve
+    - Adam's perspective:
+      - SUS = 0 for Adam
+      - SUS = 10 for Eve
+    - Eve's perspective:
+      - SUS = 1 for Adam
+      - SUS = 30 for Eve
 
-    Here there is a conflict. Only one Human's Demand can Connect with the single Supply. Adam and Eve will have to decide between each other who's Demand gets to Connect. Objectively Adam's Connection creates more Utility. Will they decide to facilitate Adam's Connection? 
+  Here there is a conflict. Only one Human's Demand can Connect with the single Supply. Adam and Eve will have to decide between each other who's Demand gets to Connect. Objectively Adam's Connection creates more Utility. Will they decide to facilitate Adam's Connection? 
 
-    Both Humans want to maximize OUS but they believe different Connections maximize OUS. Eve believes Eve's Connections maximizes overall OUS and Adam believes Adam's Connection maximizes OUS. 
+  Both Humans want to maximize OUS but they believe different Connections maximize OUS. Eve believes Eve's Connections maximizes overall OUS and Adam believes Adam's Connection maximizes OUS. 
 
-    Now in the real world this would talk multiple moments to decide; sometimes minutes, hours, days, even months. But there will be a decision and someone will connect with the single supply. How is this done in a pre-sin world? Adam doesn't know Eve's perspective and Eve doesn't know Adam's perspective. How are they going to decide who gets to Connect?
+  Now in the real world this would talk multiple moments to decide; sometimes minutes, hours, days, even months. But there will be a decision and someone will connect with the single supply. How is this done in a pre-sin world? Adam doesn't know Eve's perspective and Eve doesn't know Adam's perspective. How are they going to decide who gets to Connect?
 
-    They communicate with each other! Adam expresses his opinion on the matter and Eve does the same. Based on the communication each Human will have a better understanding of SUS. Let's speed forward some time and say 5 moments have passed. Now they know each other's perspective better and both have a better understanding of the overall situation.
+  They communicate with each other! Adam expresses his opinion on the matter and Eve does the same. Based on the communication each Human will have a better understanding of SUS. Let's speed forward some time and say 5 moments have passed. Now they know each other's perspective better and both have a better understanding of the overall situation.
 
-    Possible Connection A (Adam's Demand Connects with the single Supply)
-      - Objective:
-        - OUS = 30 for Adam
-        - OUS = -3 for Eve
-      - Adam's perspective:
-        - SUS = 35 for Adam
-        - SUS = -2 for Eve
-      - Eve's perspective:
-        - SUS = 25 for Adam
-        - SUS = -3 for Eve
+  Possible Connection A (Adam's Demand Connects with the single Supply)
+    - Objective:
+      - OUS = 30 for Adam
+      - OUS = -3 for Eve
+    - Adam's perspective:
+      - SUS = 35 for Adam
+      - SUS = -2 for Eve
+    - Eve's perspective:
+      - SUS = 25 for Adam
+      - SUS = -3 for Eve
 
-    Possible Connection B (Eve's Demand Connects with the single Supply)
-      - Objective:
-        - OUS = -1 for Adam
-        - OUS = 20 for Eve
-      - Adam's perspective:
-        - SUS = 0 for Adam
-        - SUS = 18 for Eve
-      - Eve's perspective:
-        - SUS = -2 for Adam
-        - SUS = 21 for Eve
+  Possible Connection B (Eve's Demand Connects with the single Supply)
+    - Objective:
+      - OUS = -1 for Adam
+      - OUS = 20 for Eve
+    - Adam's perspective:
+      - SUS = 0 for Adam
+      - SUS = 18 for Eve
+    - Eve's perspective:
+      - SUS = -2 for Adam
+      - SUS = 21 for Eve
 
-    Because of the communication that took place between the two there is now a better understanding of the situation. Adam and Eve both have better subjective estimations of Utility. Of course there is still a problem. Who gets to Connect? Adam and Eve both have their own estimations of Utility but they both know that the true Utility is unknown by both. They will have to come up with a way of deciding.
+  Because of the communication that took place between the two there is now a better understanding of the situation. Adam and Eve both have better subjective estimations of Utility. Of course there is still a problem. Who gets to Connect? Adam and Eve both have their own estimations of Utility but they both know that the true Utility is unknown by both. They will have to come up with a way of deciding.
 
-    Now, with a better understanding, they are both on the same page. Adam's Connections maximizes OUS for everyone and so Adam will Connect. Eve loses some Utility and Adam gains, but the overall Utility change is higher in Connection A than B.
+  Now, with a better understanding, they are both on the same page. Adam's Connections maximizes OUS for everyone and so Adam will Connect. Eve loses some Utility and Adam gains, but the overall Utility change is higher in Connection A than B.
 
-    Of course when Adam's Demand Connects then Eve's will die. There will be no Supply for Eve's Demand to Connect with. 
+  Of course when Adam's Demand Connects then Eve's will die. There will be no Supply for Eve's Demand to Connect with. 
 
-    This example only have two Humans, but there could be a situation where n amount of Humans are Demanding k Supply given n>k. The fundamentals of the situtaion would still hold. Humans will communicate preferences and unserstanding. SUS will change as moments progress. Demand will filter Demand to see which k amount of the n Humans get to Connect with Supply. 
+  This example only have two Humans, but there could be a situation where n amount of Humans are Demanding k Supply given n>k. The fundamentals of the situtaion would still hold. Humans will communicate preferences and unserstanding. SUS will change as moments progress. Demand will filter Demand to see which k amount of the n Humans get to Connect with Supply. 
 
   ### Take A Step Back
   
