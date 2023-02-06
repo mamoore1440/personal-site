@@ -1,0 +1,29 @@
+navbar:
+  signatureNavItem: 
+    title: 'Example Website'
+    href: '/'
+  navItems: 
+    - title: 'Blog'
+      href: '/blog'
+    - title: 'Schizo'
+      href: '/schizo'
+    - title: 'Notes'
+      href: '/notes'
+    - title: 'The Model'
+      href: '/model'
+    - title: 'The "Book"'
+      href: '/mode/hmt-book'
+footer:
+  navItems: 
+    - title: 'Blog'
+      href: '/blog'
+    - title: 'Schizo'
+      href: '/schizo'
+    - title: 'The Model'
+      href: '/model'
+    - title: 'The "Book"'
+      href: '/mode/hmt-book'
+  imageNavItems:
+    youtubeUrl: 'https://youtube.com'
+    githubUrl: 'https://github.com/mamoore1440
+
