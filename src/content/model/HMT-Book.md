@@ -119,8 +119,8 @@ To start we are going to create THE MOST abstract view of reality possible. It i
         - The Spirit creates Demand
       - Internal Utility
     - Equations
-      - H(T) will give the state of Matter at Time T.
-      - Δ(H(T)) will return the next succession of the Matter matrix.
+      - H(T) will give the state of Humans at Time T.
+      - Δ(H(T)) will return the next succession of the Humans matrix.
       - H(T) = Δ(H(T-1)).
 
   Because we have briefly touched upon both Supply and Demand I will start using "S&D" instead of saying "Supply & Demand"
@@ -154,9 +154,9 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   The created Demand and inherient Supply do not actually exist. Don't get me wrong the Humans and Matter do exist; it's just S&D does not. You can never point to a Demand or point to a Supply. You could point to a Thing but not a Supply. And you could point to a Human but not a demand. The S&D both exist on a Field. A sort of battleground. On this battleground it is decided which S&D will Connect and which won't.
 
-  It's important to understand S&D do not exist in Space. Again, you can not point to Supply or Demand. Because of this it's hard to visualize the processes involved. Because of this difficulty we are going to view S&D on a "Field". This Field will be visualized like a simple euclidean plane. There will be Supply and there will be Demand on the Field. The location of the Supply or the Demand on the Field is irrelevant. This is simply to visualize what is happening. A Demand could Connect with a Supply even if they are very far apart. 
+  It's important to understand S&D does not exist in Space. Again, you can not point to Supply or Demand. Because of this it's hard to visualize the processes involved. Because of this difficulty we are going to view S&D on a "Field". This Field will be visualized like a simple euclidean plane. There will be Supply and there will be Demand on the Field. The location of the Supply or the Demand on the Field is irrelevant. This is simply to visualize what is happening. A Demand could Connect with a Supply even if they are visualized very far apart. 
 
-  The Supply will look a shape because it is the easiest way to visualize Matter (Things) as being different from each other but similiar in the fact that Supply is not Demand.
+  The Supply will look like a shape because it is the easiest way to visualize Reality as being different from each other but similiar in the fact that Supply is not Demand.
 
   Demand will be visualized as an arrow with a number at the tip and a shape in the middle. The number at the tip will be the number of who's Spirit the Demand originated from. And the shape will be the Supply the Demand wants to connect with. If the arrow has a 3 at the tip then you will know the Demand originated from Spirit #3. If the arrow has a circle in the middle then you will know the Demand wants to Connect with a circle (whatever the circle may be).
   

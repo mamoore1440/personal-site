@@ -17,39 +17,40 @@ Base Model components:
 * Humans
     * Humans have Subjections of reality
     * Humans want to maximize Utility
-    * Humans are curious and inventive
+    * Humans are inventive
     * Humans are imperfect at viewing reality
     * Humans have free-will
 * Reality
     * Reality does not have free-will
     * Reality changes over Time
-* The Model in general
+* The Model In General
     * The base measurements for Humans, Reality, and Time are the smallest measurements
-    * The more efficient an economy is the more Utility the Humans will have both in the moment and in the future
 
 ## Proofs
-
 ### Humans
 Humans have Subjections of reality && Reality changes over Time
     => Human Subjections change over Time (1)
 
 Humans have free-will 
-    => The future state of Humans is essentially impossible to determine (2)
+    => Changes in Humans are nondeterministic
+        => The future state of Humans is essentially impossible to determine (2)
 
 Humans are imperfect at viewing reality
     => Subjections of reality will essentially never be perfect (3)
         => The perfectly efficient S&D Connections will essentially never take place
             => Pareto efficiency is essentially impossible (8)
 
+### Reality
 Reality does not have free-will && Reality changes over Time
     => Any changes in Reality that originate from Reality are deterministic
         => The future of Reality can be calculated if there are no Humans (4)
 
 Humans have free-will && Reality changes over Time
-    => Any changes that originate from Humans are nondeterministic
+    => Any changes in Reality that originate from Humans are nondeterministic
         => The future of Reality can not be calculated if there are Humans (5)
 
-Humans are curious and inventive 
+### The Model In General
+Humans are inventive 
     => Humans will discover and invent over Time 
         => TFP will increase over Time (6)
 
@@ -65,7 +66,7 @@ The base measurements for Humans, Reality, and Time are the smallest possible me
 * Reality
     4. The future of Reality can be calculated if there are no Humans
     5. The future of Reality can not be calculated if there are Humans
-* The Model in general
+* The Model In General
     6. TFP will increase over Time
     7. Humans, Reality, and Time can be viewed at any scale with losing information
     8. Pareto efficiency is essentially impossible
