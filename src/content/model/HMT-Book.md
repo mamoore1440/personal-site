@@ -194,7 +194,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   //Add Later: Capitalism did not improve your life standard; it simply allocates resources efficiently. This means what you earn is highly correlated to how much you work. Life standard is improved by TFP not income. Capitalism influences the rate of TFP but capitalism does not affect whether TFP grows or not. Remember TFP is technology and really hard to put back in the bag.
 
 ### The Frame of Reference Is Ambiguous 
-  Because the model is so abstract we can now ignore the intricacies of scale. If you want to say a factory is a Supply you can do so even if you are ignoring the fact that factories are made of smaller components like machinery. Humans will interact with the factory the same way they interact with a phone: through S&D Connections. It doesn't matter that the interaction actually took place in a small way or that the interaction didn't fundamentally change the Supply. The scale or frame of reference is whatever you say it should be. If you want to look the the molecular level then so be it. If you want to look at the building level then so be it. What ever you want the frame of reference to be you can make it that. 
+  Because the model is so abstract we can ignore the intricacies of scale. If you want to say a factory is a Supply you can do so even if you are ignoring the fact that factories are made of smaller components like machinery. Humans will interact with the factory the same way they interact with a phone: through S&D Connections. It doesn't matter that the interaction actually took place in a small way or that the interaction didn't change the Supply in a meaningful way. The scale or frame of reference is whatever you say it should be. If you want to look the the molecular level then so be it. If you want to look at the building level then so be it. What ever you want the frame of reference to be you can make it that. 
 
   This is also applicable to Time and Demand (Humans). All three components of the model do not have an inheirent scale. Thus the frame of reference can be what ever you want!
 
@@ -241,7 +241,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   As we've discussed earlier, every S&D Connection changes both Matter and Humans. With regards to Matter it changes Things in some way which changes Supply on the S&DF. With regards to Humans it changes Internal Utility and all relevant Humans will update what Demands they have. It's important to notice that with every S&D Connection both Demand and Supply will change on the S&DF.
 
-  As Time ticks forward one moment at a time we will see H(T) and M(T) change. Any change that occurs for Humans in a moment will originate from a single or multiple Demand and Supply Connecting in the moment. We can not say the same about Matter. Matter changes may originate from a S&D Connection or from Matter deterministically changing over Time.
+  As Time ticks forward one moment at a time we will see H(T) and M(T) change. Any change that occurs for Humans in a moment will originate from a single or multiple Demand and Supply Connecting in the moment. We can not say the same about Matter. Changes in matter may originate from a S&D Connection or from Matter deterministically changing over Time.
 
 # Start Using The Model (Pre-Sin)
 
@@ -495,7 +495,8 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   ### Income
   Proof: The existance of private property causes the existance of income. 
-    Ownership of Supply changes over time => Individually held wealth changes.
+    Ownership of Supply changes over time => Individually held wealth changes over time. 
+    This change is Income. Income is positive or negative.
   
   Proof: Individually held wealth changes => Subjections change. Proof by definition. 
 
@@ -713,34 +714,35 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   * Before when debt was loans on Supply there was no possibility of "forging" ASV. Now that loans are ASV, debt creates shadow ASV (credit) which is, again, a positive and a negative.
 
 ## Institutions (Systems)
+  Of course there is also a need for systems. Do we not exist in a financial system? Do we not have a government? Companies? The DOT or the CIA? 
+  
   Pre-sin there was no need for institutions. Demand successfully filtering Demand at every occurance of a conflict was FANTASTIC. Post-sin three things need to happen.
   1. Demand needs filtering
   2. Temporality of Demand needs to be manipulated (technically it doesn't have to but like...)
   3. Ownership of Supply needs to be decided
-  Institutions are thus created to fill these roles. All Institutions exist on a pyramid where the points are purely Economic, purely Financial, and purely Sociological.
 
-  1. Economic and Sociological Institutions filter Demand in the current moment.
+  Institutions are thus created to fill these roles. All Institutions exist inside a pyramid where the points are purely Economic, purely Financial, and purely Governmental.
+
+  1. Economic and Governmental Institutions filter Demand in the current moment.
   2. Economic and Financial Institutions can manipulate Demand through its temporal property by using debt.
-  3. Sociological and Financial Institutions decide Supply ownership through powers granted by the people whether begrudgingly or happily.
+  3. Governmental and Financial Institutions decide Supply ownership through powers granted by the people whether begrudgingly or happily.
 
-  All real world Institutions exist somwhere in this classification pyramid (look at the soil pyramid for example). In the real world Sociological (government) institutions are tried to be kept purely Sociological but obviously this doesn't fully happen, and even if it did. It would be a bad idea to do so. Even in the real world governmental institutions act as economic and financial institutions. Public debt is a prime example of this. 
+  All real world Institutions exist somewhere inside this classification pyramid (look at the soil pyramid for example). In the real world Governmentaln institutions are tried to be kept purely Governmental but obviously this doesn't fully happen, and even if it did. It would be a bad idea to do so. Even in the real world Governmental institutions act as economic and financial institutions. Public debt and Fiat currency are prime examples of modern day governments not being purely Governmental.
   
-  A true sociological institution would never even touch debt. Only economic and financial instutions do. So if any government touches debt well they are now automatically a certain percent economic and/or certain percent financial.
+  A true Governmental institution would never even touch debt. Only economic and financial instutions do. So if any government touches debt well they are now automatically a certain percent economic and/or certain percent financial.
 
-  A true economic and financial institution would never deny demand if the exchange is profitable. If a business denies service based on religous, personal, or societal reasons then the institution is now automatically a certain percent sociological. This is the same for banks denying credit or freezing accounts.
+  A true economic and financial institution would never deny demand if the exchange is profitable. If a business denies service based on religous, personal, or societal reasons then the institution is now automatically a certain percent governmental. This is the same for banks denying credit or freezing accounts.
 
   * Financial Institutions make the Value trade. They create debt => they pull demand forward in time => they trade Value in the present for percieved Value in the future. They problem is that any Value spent on the Financial Institutions is wasted Value. 
-  * It doesn't matter that a loan to create a HFT algorithm was successfully paid off by the HFT's profit. Any Value spent creating the HFT is wasted Value.
+    * It doesn't matter that a loan to create a HFT algorithm was successfully paid off by the HFT's profit. Any Value spent creating the HFT is wasted Value.
   * Systems make up Systems which make up Systems which make up Systems...
 
 
-//Markets are a type of institution. Before they were purely economic/financial. Now they are under the control of government.
+// Markets are a type of institution. Before they were purely economic/financial. Now they are under the control of Government.
 
 
 ### Financial Institutions
   The evolution of financial institutions needs to be talked about. Financial institutions are instutions that deal solely with Money and Debt. They don't care about other's Supply or their own. They solely want to manage Money and Debt in an attempt to gain SV whether that be ASV or Supply. These are institutions that don't care about Value. They play the Money game and only care about SV.
-
-
 
   The very first financial institution is an individual Human. When two Humans create debt they are acting as financial institutions. 
 

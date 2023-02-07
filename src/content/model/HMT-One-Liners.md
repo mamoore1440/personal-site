@@ -78,7 +78,7 @@ tags: []
 
 ## Reality, God, Jesus One Liners:
 * A.I. could solve the hard line problem but only on the materialistic side. The sociological side can't be solved by A.I. and thus cohesion drop to 0 even in a perfectly fair world.
-
+* With the Devil there is good and evil, but the evil never end; and the good does. With God there is no evil and the good never ends.
 * The angels are like god's rumbas and alexas. The are meant to do tasks but are also given a spirit.
 
 * God wasn't able to split reality into good and evil before sin. He didn't even want to. 

@@ -8,11 +8,7 @@ tags: []
 ---
 
 Base Model components:
-* Humans, Matter, Time
-    * Demand, Supply, Time
-* TFP
-
-
+* Demand, Supply, Time, TFP
 
 
                     |       Pre             |        Post       |       Notes

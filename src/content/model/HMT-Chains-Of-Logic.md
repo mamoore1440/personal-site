@@ -7,7 +7,163 @@ img: hello-world.png
 tags: []
 ---
 
-HUMANS, MATTER AND TIME NOTES:
+HUMANS, MATTER AND TIME CHAINS OF LOGIC:
+
+Base Model components:
+* Humans, Reality, Time, TFP
+
+# Base Model:
+## Assumptions: 
+* Humans
+    * Humans have Subjections of reality
+    * Humans want to maximize Utility
+    * Humans are curious and inventive
+    * Humans are imperfect at viewing reality
+    * Humans have free-will
+* Reality
+    * Reality does not have free-will
+    * Reality changes over Time
+* The Model in general
+    * The base measurements for Humans, Reality, and Time are the smallest measurements
+    * The more efficient an economy is the more Utility the Humans will have both in the moment and in the future
+
+## Proofs
+
+### Humans
+Humans have Subjections of reality && Reality changes over Time
+    => Human Subjections change over Time (1)
+
+Humans have free-will 
+    => The future state of Humans is essentially impossible to determine (2)
+
+Humans are imperfect at viewing reality
+    => Subjections of reality will essentially never be perfect (3)
+        => The perfectly efficient S&D Connections will essentially never take place
+            => Pareto efficiency is essentially impossible (8)
+
+Reality does not have free-will && Reality changes over Time
+    => Any changes in Reality that originate from Reality are deterministic
+        => The future of Reality can be calculated if there are no Humans (4)
+
+Humans have free-will && Reality changes over Time
+    => Any changes that originate from Humans are nondeterministic
+        => The future of Reality can not be calculated if there are Humans (5)
+
+Humans are curious and inventive 
+    => Humans will discover and invent over Time 
+        => TFP will increase over Time (6)
+
+The base measurements for Humans, Reality, and Time are the smallest possible measurements && Changes in Humans and Reality occur one at a time over these smallest measurements
+    => These smallest changes can be combined together to form an aggregate change without losing information (This is integration in calculus)
+        => Humans, Reality, and Time can be viewed at any scale with losing information (7)
+
+## What we have proven:
+* Humans
+    1. Human Subjections change over Time
+    2. The future state of Humans is essentially impossible to determine
+    3. Subjections of reality will essentially never be perfect
+* Reality
+    4. The future of Reality can be calculated if there are no Humans
+    5. The future of Reality can not be calculated if there are Humans
+* The Model in general
+    6. TFP will increase over Time
+    7. Humans, Reality, and Time can be viewed at any scale with losing information
+    8. Pareto efficiency is essentially impossible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Pre-Sin:
+Assumptions: 
+* Humans are always magnanimous: Demands are always made with the assumption of working towards a greater goal.
+
+Humans are always magnanimous  
+=> There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
+    => There will never be a tragedy of the commons
+        => Supply will always stay in the CC
+    => Demand never needs to be rejected, only filtered
+        => Ownership of Supply would be a detriment => Ownership of Supply would not exist
+            => Supply will always stay in the CC => Supply never enters PP
+            => The economy is running at peak possible efficiency && There is no need to trade ownership of Supply
+                => There is no barter
+                => Money would be a detriment => Money would not exist
+            => Debt cannot exist
+                => Temporality of demand can not be manipulated
+
+
+Ownership of Supply would not exist => The Material "Hard-Line" problem would not exist
+
+There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
+    => Cohesion will never get entangled
+        => Cohesion always stays at 100
+            => The Spiritual "Hard-Line" problem would not exist
+
+
+Temporality of demand can not be manipulated
+&& Demand never needs to be rejected, only filtered
+&& Ownership of Supply would not exist
+    => There are no need for Economic, Financial, or Governmental Systems
+
+
+# Post-Sin:
+Assumptions:
+* Humans are not always magnanimous
+
+Humans are not always magnanimous
+=> There will be occurances of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
+    => There will be tragedy of the commons
+        => At times certain Supply will have to leave the CC and enter PP
+    => Demand does need to be rejected
+        => Ownership of Supply is a benefit => Ownership of Supply will exist
+            => At times certain Supply will have to leave the CC and enter PP
+            => Highly efficient Demands will be rejected
+                => Efficiency will drop
+                    => Barter is needed to trade ownership of Supply => Increases efficiency
+                    => Money exists to increase efficiency
+                    => Debt exists to increase efficiency
+                        => Temporality of Demand will be manipulated
+
+Ownership of Supply will exist
+=> A Humans Utility change moment to moment is dependant on what and how much Supply they own
+    => Humans, by wanting to maximize Utility, will want to maximize Supply ownership
+        => Humans will Value Supply Subjectively
+            => Supply has Subjective Value
+                => The Subjective Value of a Supply affects a Human's decision making process
+
+
+Ownership of Supply does exist => The Material "Hard-Line" problem does exist
+
+There will be occurances of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
+    => Cohesion does get entangled
+        => Cohesion drops to 0 at infinity
+            => The Spiritual "Hard-Line" problem does exist
+
+Temporality of demand will be manipulated
+&& Demand needs to be rejected
+&& Ownership of Supply exists
+    => There is a need for Economic, Financial, and Governmental Systems
+
+
+
+
 
 ## SN: Chains Of Logic
 This will be the last facist uprising. The only reason you have a fascist uprising is due to the 100-year cycles destroying a society. The 100-year cycle is only possible due to a fundamental misunderstanding in economics. The misunderstanding, or more accurately purposely hidden knowldege, allows for levers to be manipulated that are deemed to be invisable by leading institutions (fed, fed, academics, finance). This allows to attempted usurption of fundamental economic principles in an attempt to never have the 100-year bust.
@@ -20,50 +176,14 @@ God is good. && I have sinned while God has not.
 &1 => (If God owns my spirit => the owner of my spirit is good.) 
 
 
-# Basics Of The Model
-## Just Matter
-## Add Time
-## Add Humans
-## What Is The S&D Field?
-## Intracacies Of The Model
-### TFP
-### The Frame Of Reference Is Ambiguous
-## A Quick Overview Of The Model
-# Start Using The Model (Pre-Sin)
-## Let's See How The Model Works With One Person
-### A Quick Example To Understand Decision Making
-## Let's Add A Second Human
-## Let's Give An Overview Of The Model So Far
-## Let's Add A 3rd, 4th, ..., Nth Human
-## Value In A Pre-Sin World
-## Final Overview
-# Add Sin To The World
-## Humans Have Cohesion
-## Private Property
 ### Income
 Proof: The existance of private property causes the existance of income. 
     Ownership of Supply changes over time => Individually held wealth changes.
 Proof: Individually held wealth changes => Subjections change. Proof by definition.
-## Debt
-### Why Debt Exists
-### Debt Bringing Demand Forward In Time
-### Types Of Debt
-### Debt Overview
-## Money
-### Barter
-### Commodity Money
-### ASV
-### Commodity Money Again
-### Representative Commodity Money
-### Fiat Money
-### EMoney
-### Crypto
-### Money In General
-## Debt With Money
+
 ### Cycles
-Debt existing and Humans being imperfect => 7-year debt cycle exists
+Debt existing and Humans being imperfect at investing => 7-year debt cycle exists
 7-year debt cycle 
 && central banks existing 
 && fundamental lack of understanding in economics 
     => 100-year debt cycle exists
-## Institutions
