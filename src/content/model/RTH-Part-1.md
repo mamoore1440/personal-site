@@ -10,7 +10,7 @@ tags: []
 # Introduction:
 In academic economics there seems to be a fundamental misunderstanding of what is actually happening in economics. Academics spends way too much time memorizing equations, models, and variables that are of no use to real world. The models looked at are hundreds of years old and have no actual bearing. Most of the time the models looked at and tested over in academics, whether that testing be testing through exams or homework, are paradoxically both hyper specific and not useful at all. In my time in academic economics I have learned, memorized and have succefully passed tests about information that I have never actually even seen or used before. 
 
-A prime example of this irrelevancy for the information taught is Solow's Growth Model. The Model was ground breaking in 1987 but explains just about nothing in regards to the real world. Solow recieved the nobel prize in 1987 for his work but I doubt much changed with the invention of his model. The model, which takes in three variables: TFP, Capital, and Labor, doesn't even include things like debt. The model is essentially a basic line you would have learned in grade school. Yet Solow won the Nobel Prize in Economics for this. Why he won I'm not sure; just about nothing can be gleaned from his model. The only information that can be gleaned would be useful to a nation that existed well before the industrial revolution. The model is genuinely so worthless that I actually thought the model was invented 200 years ago. I only found out it was made in 1987 when I wrote this paragraph. However, this model is the furthest academic economics has to understanding economics. This is extremely bleak.
+A prime example of this irrelevancy for the information taught is Solow's Growth Model. The Model was ground breaking in 1987 but explains just about nothing in regards to the real world. Solow recieved the nobel prize in 1987 for his work but I doubt much changed with the invention of his model. The model, which takes in three variables: TFP, Capital, and Labor, doesn't even include things like debt. Incase you didn't know: TFP is just the progress of technology (A higher TFP means more advanced technology). The model is essentially a basic line you would have learned in grade school. Yet Solow won the Nobel Prize in Economics for this. Why he won I'm not sure; just about nothing can be gleaned from his model. The only information that can be gleaned would be useful to a nation that existed well before the industrial revolution. The model is genuinely so worthless that I actually thought the model was invented 200 years ago. I only found out it was made in 1987 when I wrote this paragraph. However, this model is the furthest academic economics has to understanding economics. This is extremely bleak.
 
 My background is not from economics; I have a degree in computer science with minors in data science and economics. I have dipped my toes in academic economics but by no means have I swam in the pool. To be honest I'm not sure I respect academic economics enough to even sit on the side of the pool with my feet in. I don't even respect academics in regards to computer science which I firmly believe is way too focus on the minute and not on relevant information. Of course this is a critique of all of academics and a critique I believe that this is especially true for economics. 
 
@@ -74,6 +74,7 @@ When a Supply and a Demand Connect on the Supply & Demand Field:
   * Humans are inventive
   * Humans are imperfect at viewing Reality
   * Humans have free-will
+  * Humans interact with Reality based on their Subjections
 * Reality
   * Reality does not have free-will
   * Reality changes over Time
@@ -93,10 +94,8 @@ Humans have free-will
   => Changes in Humans are nondeterministic
     => The future state of Humans is essentially impossible to determine (2)
 
-Humans are imperfect at viewing Reality
+Humans are imperfect at viewing Reality && Humans have Subjections of Reality
   => Subjections of Reality will essentially never be perfect (3)
-    => The perfectly efficient S&D Connections will essentially never take place
-      => Pareto efficiency is essentially impossible (8)
 
 ### Reality
 Reality does not have free-will && Reality changes over Time
@@ -115,6 +114,10 @@ Humans are inventive
 The base measurements for Humans, Reality, and Time are the smallest possible measurements && Changes in Humans and Reality occur one at a time over these smallest measurements
   => These smallest changes can be combined together to form an aggregate change without losing information (This is integration in calculus)
     => Humans, Reality, and Time can be viewed at any scale with losing information (7)
+
+Subjections of Reality will essentially never be perfect (3) && Humans interact with Reality based on their Subjections
+  => The perfectly efficient S&D Connections will essentially never take place
+    => Pareto efficiency is essentially impossible (8)
 
 ## What we have proven:
 * Humans
@@ -200,6 +203,7 @@ Here are the assumptions we are making for the model. We will go through them on
   * Humans are inventive
   * Humans are imperfect at viewing Reality
   * Humans have free-will
+  * Humans interact with Reality based on their Subjections
 * Reality
   * Reality does not have free-will
   * Reality changes over Time
@@ -222,20 +226,23 @@ This sort of goes hand in hand with 1. Essentially no Human has a perfect view o
 4. Humans have free-will
 This one will have a bit of flak. There is always a debate about whether or not Humans have free-will or not. Maybe all of existance is deterministic. Where ever you stand on this issue it doesn't really matter that much. It will affect small parts of conclusions but that will be in the later parts. To be honest this is only a minor assertion. Again, the model is really only being made to prove a couple of things about economics.
 
-5. Reality does not have free-will
-I've never seen this not be the accepted position. I've never seen someone have the opposite take, so I'm just going to move on.
-
-6. Reality changes over Time
-Also another take that I've never seen the opposite be taken. No one has even been a Devil's advocate on this one.
-
-7. Time always moves forward.
-Again, another cold take. I'm just going to move on.
-
-8. Humans and Reality interact with each other over the S&D Field.
+5. Humans interact with Reality based on their Subjections
 This isn't an assertion about reality so much as a fact about the model. But it is important to understand and work with so I will put it in the assumptions.
 
-9. The base measurements for Humans, Reality, and Time are the smallest possible measurements
-This is also not so much an assertions so much as a fact about the model. Again, this is important to understand so I did put it in assumptions. 
+6. Reality does not have free-will
+I've never seen this not be the accepted position. I've never seen someone have the opposite take, so I'm just going to move on.
+
+7. Reality changes over Time
+Also another take that I've never seen the opposite be taken. No one has even been a Devil's advocate on this one.
+
+8. Time always moves forward.
+Again, another cold take. I'm just going to move on.
+
+9. Humans and Reality interact with each other over the S&D Field.
+Same as 5. Not really an assumption so much as a fact.
+
+10. The base measurements for Humans, Reality, and Time are the smallest possible measurements
+Same as 5 and 9. This is more of a fact.
 
 This concludes the assumptions and so we can move on to proofs.
 
@@ -307,7 +314,7 @@ Want to prove
 
 Then we say A and B and C => D. This is exact same as the english sentence we had above. The symbol '=>' simply means implies.
 
-There is another point to take into account. We never actually proved that Alice didn't eat the apple. Alice could have eaten the apple even if she knew she would die. But the vast majority of cases such as this Alice would not eat the apple. We can say there is a 99% chance that Alice did not eat the apple and a 1% chance that she did. However, even if there is a 1% chance, it still makes sense to conlude that Alice did not eat the apple. In academics this would be rejected but in the real world this is accepted. When Wall Street is creating profitable trading strategies they don't care if any one assertion is 100% true or not. Wall Street generally settles around 70%. This is important because when do proofs on the asumptions above they won't be 100% true. There will obviously be cases where the facts that asserted or concluded arn't 100% true. However, this does not mean that we should throw out the model or any conclusion from the model. We simply have to understand that the conclusion could possibly be wrong just like how there was a 1% chance Alice ate the apple. 
+There is another point to take into account. We never actually proved that Alice didn't eat the apple. Alice could have eaten the apple even if she knew she would die. But the vast majority of cases such as this Alice would not eat the apple. We can say there is a 99% chance that Alice did not eat the apple and a 1% chance that she did. However, even if there is a 1% chance, it still makes sense to conlude that Alice did not eat the apple. In academics this would be rejected but in the real world this is accepted. When Wall Street is creating profitable trading strategies they don't care if any one assertion is 100% true or not. Wall Street generally settles around 70%. This is important because when do proofs on the asumptions above they won't be 100% true. There will obviously be cases where the facts that asserted or concluded arn't 100% true. However, this does not mean that we should throw out the model or any conclusion from the model. We simply have to understand that the conclusion could possibly be wrong just like how there was a 1% chance Alice ate the apple. Another way to think about this is that next time you eat there is a non-zero chance that the food will enough cyanide in it to kill you. Is it logical then to never eat? Obviously not, the chance is so small it essentially never matter. The same principle applies everything in real life. 100% proofs, while nice, are niche. Life is not lived at that 100%.
 
 Now that we understand logic let's work with both the assumptions and the model to prove a couple of things about the model. Let's start the Human based Proofs.
 
@@ -317,15 +324,96 @@ Humans have Subjections of Reality && Reality changes over Time
 
 Our first proof is a rather simple one so it's a great place to start. We have two original assumptions:
 1. Humans have Subjections of Reality
+2. Reality changes over Time.
 
-
+Because Humans have Subjections about Reality and because Reality changes then the Subjections have to change. This is more of a fact about the model rather than a point I need to argue.
+We can conclude that Human Subjections change over Time is a true statement about the model based on the assumptions.
 
 
 Humans have free-will 
   => Changes in Humans are nondeterministic
     => The future state of Humans is essentially impossible to determine (2)
 
-Humans are imperfect at viewing Reality
+The second proof is a bit more interesting. We need to conluded two facts from the original assumption. The second conclusion being based on the first.
+Initially we are assuming that Humans have free-will. This implies Humans can do what they want and are not required to do any one thing. This means that Humans will not act like a robot or in other words are free. The conclusion we can easily draw from this is that the Changes in Humans are nondeterministic. From this conslusion we can easily conclude another fact. That the future state of Humans is impossible to know. In other words given H(T) it is impossible to know what H(T+1) looks like. You could guess and could be really accurate at times but in general you arn't going to know and even if you were correct in your guess you wouldn't be 100% accurate.
+
+Humans are imperfect at viewing Reality && Humans have Subjections of Reality
   => Subjections of Reality will essentially never be perfect (3)
-    => The perfectly efficient S&D Connections will essentially never take place
-      => Pareto efficiency is essentially impossible (8)
+
+Our original assumption is that Humans are imperfect at viewing reality and that Humans have Subjections of reality. This implies that the Subjections Human's have are imperfect Subjections. Technically at times they could be perfect, but the vast majority of the time they won't be.
+
+That concludes the proofs for Humans lets move onto proofs for Reality.
+
+### Reality
+Reality does not have free-will && Reality changes over Time
+  => Any changes in Reality that originate from Reality are deterministic
+    => The future of Reality can be calculated if there are no Humans (4)
+
+This first proof is rather simple. Reality changes and it does not have free-will and so the changes must be deterministic. Because the changes are deterministic the future must be deterministic. If the future of Reality is deterministic then it can be calculated.
+
+Humans have free-will && Reality changes over Time && Humans and Reality interact with each other over the S&D Field
+  => Any changes in Reality that originate from Humans are nondeterministic
+    => The future of Reality can not be calculated if there are Humans (5)
+
+The second proof is essentially the first but with Humans. Because Humans have free-will, Reality changes over Time, and Because Humans and Reality interact then any changes in reality that originate from Humans must be nondeterministic. Thus the future of Reality can not be calculated if there are Humans.
+
+Finally proofs about the model in general.
+
+### The Model In General
+Humans are inventive 
+  => Humans will discover and invent over Time 
+    => TFP will exist and improve over Time (6)
+
+Here we start with an assumption about Humans. Humans are inventive and this obviously implies that Humans will discover and invent over Time. Because Humans are inventive and this inventiveness will only improve over time then technology has to exit. This technology is TFP. We can also conclude that TFP will advance over Time.
+
+The base measurements for Humans, Reality, and Time are the smallest possible measurements && Changes in Humans and Reality occur one at a time over these smallest measurements
+  => These smallest changes can be combined together to form an aggregate change without losing information (This is integration in calculus)
+    => Humans, Reality, and Time can be viewed at any scale with losing information (7)
+
+This proof is a really important proof and will mimic the fundamentals of calculus. The two assertions is that: One, the base measurements for the model are the smallest measurements possible. And two, that the changes in the changes in the model occur in these smallest measurements. From this we can conclude that we can combine these small changes together and form one big change without losing information. Just like how in mathematics you can combine small changes in a function to form conclusions about the function (integration). So too can you combine small changes in Humans, Reality, and the S&D Field together to form one big change.
+
+From here we can conclude that we can view Humans, Reality, or the S&D Field with any sized scope without losing information about the components. If we want to consider a whole factory as a Supply we can do so. Even if the factory actually has multiple components inside of it. We don't have to condider the machinery, the air, or even the ground it is on. The scope can be whatever we want. This is extremely important and to be honest is a foundational fact about the model.
+
+Subjections of Reality will essentially never be perfect (3) && Humans interact with Reality based on their Subjections
+  => The perfectly efficient S&D Connections will essentially never take place
+    => Pareto efficiency is essentially impossible (8)
+
+The final proof is also important. One of assumptions in this proof is something proved earlier. This will happen multiple times in the next parts. We want to assume very little so that model can stay flexible and applicable to real life. 
+
+Our two assumptions, one being proven from earlier assumptions, is that Subjections or Reality are essentially never perfect and that Humans interact with Reality based on the subjections. From this it's easy to conclude that the interactions (or S&D Connections) between Humans and Reality will never be perfect. Again, technically they could be but it would extremely rare. Because the interactions will essentially never be perfect then Pareto efficiency for an economy is essentially impossible. For those who don't know: Pareto efficiency is just peak efficiency. Every Decision made in a Pareto efficient economy is perfect. Only in very simple hypotheticals could Pareto efficiency be possible. In the real world Pareto efficiency is impossible.
+
+This concludes our proofs.
+### Facts About The Model
+Assumptions: 
+* Humans
+  * Humans have Subjections of Reality
+  * Humans are inventive
+  * Humans are imperfect at viewing Reality
+  * Humans have free-will
+  * Humans interact with Reality based on their Subjections
+* Reality
+  * Reality does not have free-will
+  * Reality changes over Time
+* Time
+  * Time always moves forward
+* S&D Field
+  * Humans and Reality interact with each other over the S&D Field
+* The Model In General
+  * The base measurements for Humans, Reality, and Time are the smallest possible measurements
+
+Proven:
+* Humans
+  1. Human Subjections change over Time
+  2. The future state of Humans is essentially impossible to determine
+  3. Subjections of Reality will essentially never be perfect
+* Reality
+  4. The future of Reality can be calculated if there are no Humans
+  5. The future of Reality can not be calculated if there are Humans
+* The Model In General
+  6. TFP will exist and improve over Time
+  7. Humans, Reality, and Time can be viewed at any scale with losing information
+  8. Pareto efficiency is essentially impossible
+
+Technically the inbetween facts also belong in the Proven section above. But I only included facts that actually mattered.
+
+This concludes part one. The next part is using the model in a utopian world. It will not be applicable to real life, but it will be important to look at so that we can understand how the model works.
