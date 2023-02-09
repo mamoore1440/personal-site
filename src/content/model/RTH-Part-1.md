@@ -384,6 +384,10 @@ Our two assumptions, one being proven from earlier assumptions, is that Subjecti
 
 This concludes our proofs.
 ### Facts About The Model
+So why are we doing all this? for two reasons. Number one, we know that based on the four base components of the model-Reality, Time, Humans, and the S&D Field-combined with the ten assumptions we made that the eight proven facts have to be true in regards to the model. So for instance the first fact we proved, Human Subjections change over Time, now has to be part of the model. In the model Human Subjections have to change over time. If they didn't then the model would not be logical. And for the second reason: We know because the model is an abstract an abstract view of reality and that the assumptions are based on reality. That the proven facts have to be true in real life also. Again, the facts assumed and the facts proven are not very important so far. This first part is simply for us to understand the model. In later parts we will make assumptions and prove facts that give vital information about the real world.
+
+Here is the overview of the facts assumed and proven.
+
 Assumptions: 
 * Humans
   * Humans have Subjections of Reality

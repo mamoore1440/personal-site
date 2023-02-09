@@ -23,6 +23,7 @@ tags: []
 * GDP is how much Supply was exchanged in a year in terms of ASV.
 * When debt is allocated successfully Value is pulled forward in time!
 
+* Using GDP as a way of measure an economies health is like your using your speed to measure your health. Sure you might be driving really fast, but you might also be about to drive off a cliff.
 * Debt pulls S&D Connections forward in time that are percieved to both take place in the future and be profitable in the present. This does not mean the S&D Connections were guaranteed to take place at all!
 
 * We've been wasting production since the 80's. There was no point in keep the work week at 40hrs. It should have been dropping steadily since.
