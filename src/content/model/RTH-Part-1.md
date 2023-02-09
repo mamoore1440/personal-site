@@ -134,9 +134,10 @@ Subjections of Reality will essentially never be perfect (3) && Humans interact 
 
 
 # Explanation:
-What we have just created is an incredibly abstract view of the world. The Model only has four parts, each of which are incredibly simple but contain the complexities of real life. The first part is Reality and we will start here.
+What we have just created is an incredibly abstract view of the world. We have two parts to the Model. One side is the components which are mathematically defined as functions. The second part is the logic which is the assumptions, proofs, and proven facts. There are only four components, each of which are incredibly simple but contain the complexities of real life. The first part is Reality and we will start here.
 
-## Reality
+## Components Of The Model
+### Reality
 This is Reality. (The matrix from _the matrix_)
 * R(T) will return the state of Reality at Time T.
 * Δ(R(T)) will return the next succession of the Reality matrix at Time T.
@@ -146,7 +147,7 @@ You can think of Reality as the matrix from the movie _the matrix_. This is the 
 
 But because we have not introduced Time or Humans let's look at Reality without them. Fortunetaly there isn't much to see: In the model Reality is simply a mathematical matrix of information. We do not have to assign any variables or even look inside the matrix. We can simply say that the information matrix exists and contains all the complexities of the real world. Because Time does not exist yet Reality is static. Reality does not change or move. If the Reality matrix has a rock in the middle of the air then the rock will stay there. Only when we add Time will the rock move. Again, the information doesn't even need to exist in the math. We can simply assume Reality is represented in the matrix. We don't need to do any more work here so let's add time.
 
-## Time 
+### Time 
 There is not much complexity to Time. Time moves forward one unit at a time and the unit used is the smallest unit possible.
 
 The only complexity in regards to Time comes up with Reality, so as Time moves forward now so does Reality. Before Reality was static and now it is dynamic. We can see this dynastic element with the three equations. 
@@ -165,7 +166,7 @@ In sum: R(T) returns information about Reality based on a moment in time. Δ(R(T
 
 Next let's talk about the Human component.
 
-## Humans
+### Humans
 This is Humans
 * Humans have Internal Utility
 * H(T) will return the state of Humans at Time T.
@@ -178,7 +179,7 @@ Humans have an Internal Utility which is a term that comes from academic economi
 
 In regards to the equations they work the exact same way as Reality. H(T) will return the state of Humans at Time T. Δ(H(T)) will return the next succession of the Humans matrix at Time T. And H(T) = Δ(H(T-1)) connects the Humans matrixes in the present to Humans in the past. This connects all the states of Humans into a temporal chain.
 
-## Supply and Demand Field (S&D Field)
+### Supply and Demand Field (S&D Field)
 The final component is the S&D Field. The S&D Field is a tad bit complex but not by much.
 
 This is the field on which Humans and Reality interact. This is not physical like Humans and Reality: you can not point to Demand, Supply, or a Connection. 
@@ -195,7 +196,9 @@ There are two equations that exist for the S&D Field. The first is F_D(T) which 
 
 With that we now have our four components and so we should move onto the Logic.
 
-## Assumptions: 
+## Logic
+
+### Assumptions: 
 Here are the assumptions we are making for the model. We will go through them one at a time and see if they are founded in reality.
 
 * Humans
@@ -246,8 +249,8 @@ Same as 5 and 9. This is more of a fact.
 
 This concludes the assumptions and so we can move on to proofs.
 
-## Proofs
-### Example Proof
+### Proofs
+#### Logic & Proofs Explained
 Because proofs and logic is taught rather awfully in middle, high and college I'm going to briefly explain it.
 
 Logic is just math. The greeks believed there was a logical force that permeated reality and they called it the logos. Now a days people simply view this as math and mathematical proofs. You may have seen or done some proofs in high school, and if you were in an engineering, mathemcatical, or computer science field in college you may have done some proofs there. Nevertheless let's quickly go over it.
@@ -318,7 +321,7 @@ There is another point to take into account. We never actually proved that Alice
 
 Now that we understand logic let's work with both the assumptions and the model to prove a couple of things about the model. Let's start the Human based Proofs.
 
-### Humans
+#### Humans
 Humans have Subjections of Reality && Reality changes over Time
   => Human Subjections change over Time (1)
 
@@ -344,7 +347,7 @@ Our original assumption is that Humans are imperfect at viewing reality and that
 
 That concludes the proofs for Humans lets move onto proofs for Reality.
 
-### Reality
+#### Reality
 Reality does not have free-will && Reality changes over Time
   => Any changes in Reality that originate from Reality are deterministic
     => The future of Reality can be calculated if there are no Humans (4)
@@ -359,7 +362,7 @@ The second proof is essentially the first but with Humans. Because Humans have f
 
 Finally proofs about the model in general.
 
-### The Model In General
+#### The Model In General
 Humans are inventive 
   => Humans will discover and invent over Time 
     => TFP will exist and improve over Time (6)
@@ -383,7 +386,7 @@ The final proof is also important. One of assumptions in this proof is something
 Our two assumptions, one being proven from earlier assumptions, is that Subjections or Reality are essentially never perfect and that Humans interact with Reality based on the subjections. From this it's easy to conclude that the interactions (or S&D Connections) between Humans and Reality will never be perfect. Again, technically they could be but it would extremely rare. Because the interactions will essentially never be perfect then Pareto efficiency for an economy is essentially impossible. For those who don't know: Pareto efficiency is just peak efficiency. Every Decision made in a Pareto efficient economy is perfect. Only in very simple hypotheticals could Pareto efficiency be possible. In the real world Pareto efficiency is impossible.
 
 This concludes our proofs.
-### Facts About The Model
+### Final Facts About The Model
 So why are we doing all this? for two reasons. Number one, we know that based on the four base components of the model-Reality, Time, Humans, and the S&D Field-combined with the ten assumptions we made that the eight proven facts have to be true in regards to the model. So for instance the first fact we proved, Human Subjections change over Time, now has to be part of the model. In the model Human Subjections have to change over time. If they didn't then the model would not be logical. And for the second reason: We know because the model is an abstract an abstract view of reality and that the assumptions are based on reality. That the proven facts have to be true in real life also. Again, the facts assumed and the facts proven are not very important so far. This first part is simply for us to understand the model. In later parts we will make assumptions and prove facts that give vital information about the real world.
 
 Here is the overview of the facts assumed and proven.
@@ -420,4 +423,5 @@ Proven:
 
 Technically the inbetween facts also belong in the Proven section above. But I only included facts that actually mattered.
 
+# Conclusion
 This concludes part one. The next part is using the model in a utopian world. It will not be applicable to real life, but it will be important to look at so that we can understand how the model works.
