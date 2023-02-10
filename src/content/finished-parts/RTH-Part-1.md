@@ -18,11 +18,11 @@ The first economics course 90% of college kids take in college is microeconomics
 
 But to say that this 101 course is the best introduction to economics would like saying dissecting a frog is the best introduction to biology. We don't even know where the frog lives, what it eats, or even how it eats. But academics asserts that dissecting markets is the correct way to start learning economics. Obviously this is not the case. The correct way to learn biology is to start broadly and then work your way in. This is true for all fields. When you were taught physics did you first learn about quarks? Or did you first learn about the atom? Obviously you started broad then worked your way in. Unfortunately, economics is taught backwards. You are told to memorize the market dissection, and are forced to find values that won't matter. Rarely are you taught how concepts apply to the real world. You dissected the frog immediately but didn't understand what the frog even was or did.
 
-This problem permeates throughout the world. There is a fundamental lack of understanding in what economics actually is. This causes people, companies, and nations to misjudge reality and allocate resources inefficiently. You would be hardpressed to find true economic information in the world. Luckily for you I have created a model we can view reality through. This model will be a computer science state diagram not a function! There will not be any east conclusion. We will not be able to plug in values for variables and have a number as the output. Instead this will be an abstract view of the world. The model will have four components: Reality, Time, Humans, and the S&D Field. These components will be abstract representations of the real world. Reality in the model will mimic reality in real life, Time in the model will mimic time in real life, Humans in the model will mimic humans in real life. This mimicing will be done by having the model be more abstract than the world is. In other words Reality, Time, and Humans in the model will incorporate all complexing of the real world into matrix variables. These matrix variables will store all information about Reality and Humans. Time will not need any information stored and the S&D Field is just a way of viewing interactions between Reality and Humans. When I refer to the component moving forward I will capitalize the first letter. If I talking about the real world or using the word in a phrase it will lower case. So for example if I am talking about the component Reality, Reality will be uppercased. If I am saying a phrase like "in all reality" reality will be lowercase. The same is true for Human and Time.
+This problem permeates throughout the world. There is a fundamental lack of understanding in what economics actually is. This causes people, companies, and nations to misjudge reality and allocate resources inefficiently. You would be hardpressed to find true economic information in the world. Luckily for you I have created a model we can view reality through. This model will be a computer science state diagram not a function! There will not be any east conclusion. We will not be able to plug in values for variables and have a number as the output. Instead this will be an abstract view of the world. The model will have four components: Reality, Time, Humans, and the S&D Field. These components will be abstract representations of the real world. Reality in the model will mimic reality in real life, Time in the model will mimic time in real life, Humans in the model will mimic humans in real life. This mimicing will be done by having the model be more abstract than the world is. In other words Reality, Time, and Humans in the model will incorporate all complexing of the real world into matrix variables. These matrix variables will store all information about Reality and Humans. Time will not need any information stored and the S&D Field is just a way of viewing interactions between Reality and Humans. When I refer to the component moving forward I will capitalize the first letter. If I talking about the real world or using the word in a phrase it will lower case. So for example if I am talking about the component Reality, Reality will be uppercased. If I am saying a phrase like "in all reality" reality will be lowercase. The same is true for Humans and Time.
 
 In this part (part one) I will not draw any major conclusions about the model. We will simply set up the model and I will walk you through it. In part two we will add more complexity to the model, and I will draw some major conclusions. It is very important you understand what is happening in regards to the model. In part three when I do draw conclusions about real life based on the model you will need to understand how the model works otherwise you will call me insane. Please Understand what is happening with the model in first two parts. If you gloss over the first two parts without really understanding you will have wasted your time. I'd rather you stop reading if you are not going to put the work in.
 
-I am first going to show you the components of the model. These are the four components I was talking about earlier (Reality, Time, Humans, and the S&D Field). Then I will make assumptions about the components but I will base them on real life. Then I will walk through logical deductions about the assumptions. From these deductions we will prove more facts about the model and in turn real life. The Components and Logic sections are the math behind the model. If you don't 100% understand the math it doesn't really matter. I need you to understand the high level of this model not the low level. To be honest the low level is only being fleshed out so that I can logically prove the assertions I will make later in this series so that I am not called insane.
+I am first going to show you the components of the model. These are the four components I was talking about earlier (Reality, Time, Humans, and the S&D Field). Then I will make assumptions about the components but I will base them on real life. Then I will walk through logical deductions about the assumptions. From these deductions we will prove more facts about the model and in turn real life. The Components and Logic sections are the math behind the model. If you don't 100% understand the math it doesn't really matter. I need you to understand the high level of this model not the low level. To be honest the low level is only being fleshed out so that I can logically prove the assertions I will make later in this series, so that I am not called insane.
 
 There is an explanation sections at the end of this part which explains what happened in the Components and Logic sections. My end goal is to have everyone who wants to understand to be able to understand. Because of this I will be walking everyone through the model in the explanation section. Consider this as a college level class but being taught on a high school level. I will not ask you to do homework, quizes, or exams: I only ask you put in enough effort to understand what is happening.
 
@@ -75,6 +75,7 @@ When a Supply and a Demand Connect on the Supply & Demand Field:
   * Humans are imperfect at viewing Reality
   * Humans have free-will
   * Humans interact with Reality based on their Subjections
+  * Humans are self aware about their existance (They know the assumption and they know they move forward in Time)
 * Reality
   * Reality does not have free-will
   * Reality changes over Time
@@ -106,6 +107,10 @@ Humans have free-will && Reality changes over Time && Humans and Reality interac
   => Any changes in Reality that originate from Humans are nondeterministic
     => The future of Reality can not be calculated if there are Humans (5)
 
+### Time
+Time always moves forward
+  => Time can not move backwards
+
 ### The Model In General
 Humans are inventive 
   => Humans will discover and invent over Time 
@@ -119,7 +124,7 @@ Subjections of Reality will essentially never be perfect (3) && Humans interact 
   => The perfectly efficient S&D Connections will essentially never take place
     => Pareto efficiency is essentially impossible (8)
 
-## What we have proven:
+## What We Have Proven:
 * Humans
   1. Human Subjections change over Time
   2. The future state of Humans is essentially impossible to determine
@@ -127,10 +132,12 @@ Subjections of Reality will essentially never be perfect (3) && Humans interact 
 * Reality
   4. The future of Reality can be calculated if there are no Humans
   5. The future of Reality can not be calculated if there are Humans
+* Time
+  6. Time can not move backwards
 * The Model In General
-  6. TFP will exist and improve over Time
-  7. Humans, Reality, and Time can be viewed at any scale with losing information
-  8. Pareto efficiency is essentially impossible
+  7. TFP will exist and improve over Time
+  8. Humans, Reality, and Time can be viewed at any scale with losing information
+  9. Pareto efficiency is essentially impossible
 
 
 # Explanation:
@@ -359,6 +366,14 @@ Humans have free-will && Reality changes over Time && Humans and Reality interac
     => The future of Reality can not be calculated if there are Humans (5)
 
 The second proof is essentially the first but with Humans. Because Humans have free-will, Reality changes over Time, and Because Humans and Reality interact then any changes in reality that originate from Humans must be nondeterministic. Thus the future of Reality can not be calculated if there are Humans.
+
+Quickly onto Time then to proofs about the model in general.
+
+### Time
+Time always moves forward
+  => Time can not move backwards
+
+This is a great example how how easy logic can be to work with at times. We know Time always moves forward which means we know Time can not move backwards. These two facts are antithesism so if one is true then the other is false. We Time moves forwards so we know Time can not move backwards
 
 Finally proofs about the model in general.
 

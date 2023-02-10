@@ -77,6 +77,17 @@ tags: []
   * Don't ask for forgiveness for the sake of others. Don't ask for forgiveness for the sake of family. Don't ask for forgiveness for the sake of society or humanity. 
   Don't ask for forgiveness for the sake of even God of even Jesus. Be selfish! Ask for forgiveness for the sake of yourself! It's not like you won't be forgive for being selfish. If being selfish saves you and has a possibility of saving others then I'm sure God and Jesus would approve.
 
+## Heaven, Dimensions, Spirits One Liners:
+* Humanity obviously fails to win at infinity because God exists and makes actions in the present. If Humanity did win then God wouldn't be alive. Because God is alive Humanity has to lose.
+
+* They are trying to convince you that capitalism is God's system. It very much not!
+  * The pre-sin system was literally communist. Only post-sin does private property exist. If you want to sin then you _have_ to own stuff.
+  * Don't be fooled and think that the current crash what God would have wanted. 
+    * He wanted rates at 0%!
+    * He constantly said to give to the poor.
+    * AND HE KNOWS THAT ECONOMIC PMM WONT WORK!
+      * When Humanity hates everyone including themselves the Truth is always there. Rarely do people lose cohesion with the truth. The problem is by not accepting Jesus you have denied the truth. "I am the truth. I am the light of the word"
+
 ## Reality, God, Jesus One Liners:
 * A.I. could solve the hard line problem but only on the materialistic side. The sociological side can't be solved by A.I. and thus cohesion drop to 0 even in a perfectly fair world.
 * With the Devil there is good and evil, but the evil never end; and the good does. With God there is no evil and the good never ends.
