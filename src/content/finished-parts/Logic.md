@@ -106,34 +106,6 @@ Subjections of Reality will essentially never be perfect (3) && Humans interact 
   9. Pareto efficiency is essentially impossible
 
 # Part 2: A Utopian World
-
-Humans are always magnanimous  
-=> There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
-    => There will never be a tragedy of the commons
-        => Supply will always stay in the CC
-    => Demand never needs to be rejected, only filtered
-        => Ownership of Supply would be a detriment => Ownership of Supply would not exist
-            => Supply will always stay in the CC => Supply never enters PP
-            => The economy is running at peak possible efficiency && There is no need to trade ownership of Supply
-                => There is no barter
-                => Money would be a detriment => Money would not exist
-            => Debt cannot exist
-                => Temporality of demand can not be manipulated
-
-
-Ownership of Supply would not exist => The Material "Hard-Line" problem would not exist
-
-There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
-    => Cohesion will never get entangled
-        => Cohesion always stays at 100
-            => The Spiritual "Hard-Line" problem would not exist
-
-
-Temporality of demand can not be manipulated
-&& Demand never needs to be rejected, only filtered
-&& Ownership of Supply would not exist
-    => There are no need for Economic, Financial, or Governmental Systems
-
 ## Assumptions:
 * Humans
   * People prioritize Humanity and specifically Humanities happiness
@@ -142,16 +114,60 @@ Temporality of demand can not be manipulated
 
 ## Proofs:
 ### Humans
+There is no need to trade ownership of Supply (9)
+  => There is no barter (10)
+
+Ownership of Supply would not exist (6) 
+  => The Material "Hard-Line" problem would not exist (15)
+
+There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
+    => Cohesion will never get entangled
+        => Cohesion always stays at 100
+            => The Spiritual "Hard-Line" problem would not exist
 
 ### Reality
+There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
+  => There will never be a tragedy of the commons (2)
+    => Supply will always stay in the CC (3)
 
-### Time
+Demand never needs to be rejected, only filtered (4)
+  => Ownership of Supply would be a detriment (5) && Humans are always magnanimous
+    => Ownership of Supply would not exist (6)
+
+Ownership of Supply would not exist (6)
+  => Supply will always stay in the CC (7) => Supply never enters PP (7)
+
+Ownership of Supply would not exist (6)
+  => The economy is running at peak possible efficiency (8)
+
+Ownership of Supply would not exist (6)
+  => There is no need to trade ownership of Supply (9)
+
+There is no need to trade ownership of Supply (9)
+  => Money would be a detriment (11) 
+  
+Money would be a detriment (11) && Humans are always magnanimous
+  => Money would not exist (12)
+
+Ownership of Supply would not exist (6)
+  => Debt cannot exist (13)
+
+Debt cannot exist (13) || The economy is running at peak possible efficiency (8)
+  => Temporality of demand can not be manipulated (14)
 
 ### The S&D Field
 Humans are always magnanimous
   => There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
 
+There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
+  => Demand never needs to be rejected, only filtered (4)
+
 ### The Model In General
+Temporality of demand can not be manipulated
+&& Demand never needs to be rejected, only filtered
+&& Ownership of Supply would not exist
+    => There are no need for Economic, Financial, or Governmental Systems
+
 
 ## What We Have Proven:
 

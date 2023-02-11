@@ -89,6 +89,8 @@ You have to be willing to aceept that I might know more than you. Because when I
 
 I'm only in the position to connect MAJOR dots. I can't give extremely in-depth information on all the minor details. Think of me as a forst ranger who presents a carcass. I can give you the skeleton, some of the flesh, and maybe a story. But the majority I can't find or understand easily: the hidden information is out of my scope of expertise. Nevertheless we can learn from carcsss and glimpse into the future.
 
+This is an outlier from an outlier. 
+
 ### Utility Needs To Be Temporal
 Internal Utility needs to be temporal and so does Utility gained from S&D Connections. Internal Utility would have a "resting" level which would be just risidual happiness or sadness. But Utility gained from an S&D Connections would actually be a function. If you set off a nuke it would be rather fun to watch. But the nulear fallout would suck quite a bit.
 

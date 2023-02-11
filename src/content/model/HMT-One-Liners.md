@@ -65,6 +65,7 @@ tags: []
     * Learn more about Napolean. Did he also have this?
 
 ## Life, Death, And Sin One Liners:
+* The Material hard line probem can be solved by a finite solution. The infinite problem can only be solved with a spiritual solution.
 * Post-Sin there can be a lack of Demand for certain Supplies. Pollution may need cleaning but no ones to clean it.
 
 * When someone sets up a demand filter that is faulty then they have rejected the truth and good. Only accepting Jesus will cleanse you of sin. "I am the light of this world" "I am the truth"
@@ -78,6 +79,9 @@ tags: []
   Don't ask for forgiveness for the sake of even God of even Jesus. Be selfish! Ask for forgiveness for the sake of yourself! It's not like you won't be forgive for being selfish. If being selfish saves you and has a possibility of saving others then I'm sure God and Jesus would approve.
 
 ## Heaven, Dimensions, Spirits One Liners:
+* Are you really gonna lobotomize your infinite self to help your finite self?
+* Don't be suprised when we a lot more about physics. Don't be surprised if it goes on forever. 
+  * What does it say about our reality if it goes on forever?
 * Humanity obviously fails to win at infinity because God exists and makes actions in the present. If Humanity did win then God wouldn't be alive. Because God is alive Humanity has to lose.
 
 * They are trying to convince you that capitalism is God's system. It very much not!
@@ -87,6 +91,24 @@ tags: []
     * He constantly said to give to the poor.
     * AND HE KNOWS THAT ECONOMIC PMM WONT WORK!
       * When Humanity hates everyone including themselves the Truth is always there. Rarely do people lose cohesion with the truth. The problem is by not accepting Jesus you have denied the truth. "I am the truth. I am the light of the word"
+
+* The all seeing eye pyramid is a pyramid of logic. God is at the top and we are the bottom. 
+  * Jesus is the truth, God is the top. 
+  * If we base Logic on the base that is us it'll fall apart. Your Subjections are not true because you've sinned..
+  * And the solution of linking everyone up to find the truth amoungst everyone will fail. 
+    * Jesus was the truth! And you rejected him! This is a spiritual battle not a physical one!
+      * You're reach out to him during your beast system and he's gonna say "ehhh, no thank you". (He's also going to kill you but this was funnier).
+    * This is why Jesus talks about you can change reality if you believe it. "Faith as much as a mustard seed  could move a mountain." 
+      * When you sin you kill your truth. You become finite instead of infinite.
+  * You have to understand this is infinity. Your finite games will not work.
+    * Jesus ressurected from the dead. That is the truth. Your logic will fail if you reject this: because it means everything you believe in is wrong.
+  * This why pyramids exist. It's Humanity taunting God. "Hey God, are you sure you are superiror? Because you built everything? The base seems to support the eye, not the other way around."
+
+* Why would god make israel as an attempt to control Humanity when he knew the economics and spirituality of it wouldn't work!
+  * He did it to prove that even if he did try an build a nation the people would reject him
+    * Then he proved that Humans would reject the truth by sending JEsus
+      * It just so happens that Jesus also died for your sins.
+
 
 ## Reality, God, Jesus One Liners:
 * A.I. could solve the hard line problem but only on the materialistic side. The sociological side can't be solved by A.I. and thus cohesion drop to 0 even in a perfectly fair world.
@@ -102,3 +124,7 @@ tags: []
   * God is Good => The Good line will be drawn.
   * Creating an A.I. to draw the line is a REALLY REALLY REALLY good idea. It just doesn't work.
     * I really bet you could get 10T years of dopamine easy. For those that think they could get 10TTT years. I really do believe you; I bet you could. But the problem is it doesn't work at infinity.
+
+* God didn't want any of you to fall that's why he didn't give you the knowledge of G/E. 
+  * The devil didn't want to work with you and tried to kill you. This killed him too. 
+  * God's only gonna keep those who deserve it. Every else falls.

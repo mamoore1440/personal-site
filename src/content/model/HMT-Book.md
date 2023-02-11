@@ -718,8 +718,15 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   
   Pre-sin there was no need for institutions. Demand successfully filtering Demand at every occurance of a conflict was FANTASTIC. Post-sin three things need to happen.
   1. Demand needs filtering
+    * Information: What people don't they can do; they can't do
   2. Temporality of Demand needs to be manipulated (technically it doesn't have to but like...)
+    * Monetary: Determine the price of pulling demand forward
   3. Ownership of Supply needs to be decided
+    * Fiscal: Decide what happens in the present.
+
+  1. Information
+  2. Monetary
+  3. Fiscal
 
   Institutions are thus created to fill these roles. All Institutions exist inside a pyramid where the points are purely Economic, purely Financial, and purely Governmental.
 
