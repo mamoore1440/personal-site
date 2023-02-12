@@ -9,6 +9,8 @@ navbar:
       href: '/schizo'
     - title: 'Notes'
       href: '/notes'
+    - title: 'Finished Parts'
+      href: '/finished-parts'
     - title: 'The Model'
       href: '/model'
     - title: 'The "Book"'
