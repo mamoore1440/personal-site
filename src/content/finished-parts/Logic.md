@@ -109,67 +109,122 @@ Subjections of Reality will essentially never be perfect (3) && Humans interact 
 ## Assumptions:
 * Humans
   * People prioritize Humanity and specifically Humanities happiness
-    * Humans are always magnanimous: Demands are always made with the assumption of working towards a greater goal.
-  * This decision making process is for Utility in the present and Utility in the future.
+    * Humans are always magnanimous: Demands are always made with the assumption of working towards a greater goal
+  * This decision making process is for Utility in the present and Utility in the future
+* The S&D Field
+  * Economic efficiency and average Utility gained per moment is strongly positively correlated
 
 ## Proofs:
 ### Humans
+Ownership of Supply would not exist (6)
+  => There is no need to trade ownership of Supply (9)
+
 There is no need to trade ownership of Supply (9)
-  => There is no barter (10)
+  => There will be no barter (10)
 
 Ownership of Supply would not exist (6) 
   => The Material "Hard-Line" problem would not exist (15)
 
 There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
-    => Cohesion will never get entangled
-        => Cohesion always stays at 100
-            => The Spiritual "Hard-Line" problem would not exist
+  => Cohesion will never get entangled
+    => Cohesion always stays at 100
+      => The Spiritual "Hard-Line" problem would not exist (16)
 
 ### Reality
-There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
-  => There will never be a tragedy of the commons (2)
-    => Supply will always stay in the CC (3)
-
-Demand never needs to be rejected, only filtered (4)
-  => Ownership of Supply would be a detriment (5) && Humans are always magnanimous
-    => Ownership of Supply would not exist (6)
+There will never be a tragedy of the commons (2)
+  => Supply will always stay in the CC (3)
 
 Ownership of Supply would not exist (6)
   => Supply will always stay in the CC (7) => Supply never enters PP (7)
 
-Ownership of Supply would not exist (6)
-  => The economy is running at peak possible efficiency (8)
-
-Ownership of Supply would not exist (6)
-  => There is no need to trade ownership of Supply (9)
-
-There is no need to trade ownership of Supply (9)
-  => Money would be a detriment (11) 
-  
-Money would be a detriment (11) && Humans are always magnanimous
-  => Money would not exist (12)
-
-Ownership of Supply would not exist (6)
-  => Debt cannot exist (13)
-
-Debt cannot exist (13) || The economy is running at peak possible efficiency (8)
-  => Temporality of demand can not be manipulated (14)
 
 ### The S&D Field
 Humans are always magnanimous
   => There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
 
 There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
+  => There will never be a tragedy of the commons (2)
+
+There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
   => Demand never needs to be rejected, only filtered (4)
 
-### The Model In General
-Temporality of demand can not be manipulated
-&& Demand never needs to be rejected, only filtered
-&& Ownership of Supply would not exist
-    => There are no need for Economic, Financial, or Governmental Systems
+Demand never needs to be rejected, only filtered (4)
+  => Ownership of Supply would be a detriment (5)
 
+Demand never needs to be rejected, only filtered (4)
+  => The economy is running at peak possible efficiency (8)
+
+There is no need to trade ownership of Supply (9)
+  => Money would be a detriment (11) 
+
+### The Model In General
+Ownership of Supply would be a detriment (5) && Economic efficiency and average Utility gained per moment is strongly positively correlated
+  => Ownership of Supply would not exist (6)
+  
+Money would be a detriment (11) && Economic efficiency and average Utility gained per moment is strongly positively correlated
+  => Money would not exist (12)
+
+Ownership of Supply would not exist (6)
+  => Debt can not exist (13)
+
+Debt can not exist (13) || The economy is running at peak possible efficiency (8)
+  => Temporality of Demand can not be manipulated (14)
+
+Temporality of Demand can not be manipulated (14)
+&& Demand never needs to be rejected, only filtered (4)
+&& Ownership of Supply would not exist (6)
+  => There are no need for Economic, Financial, or Governmental Systems (17)
 
 ## What We Have Proven:
+* Humans
+  9. There is no need to trade ownership of Supply (9)
+  10. There will be no barter.
+  15. The Material "Hard-Line" problem would not exist
+  16. The Spiritual "Hard-Line" problem would not exist
+* Reality
+  3. Supply will always stay in the CC
+  7. Supply will always stay in the CC => Supply never enters PP
+* The S&D Field
+  1. There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
+  2. There will never be a tragedy of the commons
+  4. Demand never needs to be rejected, only filtered
+  5. Ownership of Supply would be a detriment
+  8. The economy is running at peak possible efficiency
+  11. Money would be a detriment
+* The Model In General
+  6. Ownership of Supply would not exist
+  12. Money would not exist
+  13. Debt can not exist
+  14. Temporality of Demand can not be manipulated
+  17. There are no need for Economic, Financial, or Governmental Systems (17)
+
+## Assumptions And Proven Facts:
+* Humans
+  * People prioritize Humanity and specifically Humanities happiness
+    * Humans are always magnanimous: Demands are always made with the assumption of working towards a greater goal
+  * This decision making process is for Utility in the present and Utility in the future
+  9. There is no need to trade ownership of Supply (9)
+  10. There will be no barter.
+  15. The Material "Hard-Line" problem would not exist
+  16. The Spiritual "Hard-Line" problem would not exist
+* Reality
+  3. Supply will always stay in the CC
+  7. Supply will always stay in the CC => Supply never enters PP
+* The S&D Field
+  * Economic efficiency and average Utility gained per moment is strongly positively correlated
+  1. There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
+  2. There will never be a tragedy of the commons
+  4. Demand never needs to be rejected, only filtered
+  5. Ownership of Supply would be a detriment
+  8. The economy is running at peak possible efficiency
+  11. Money would be a detriment
+* The Model In General
+  6. Ownership of Supply would not exist
+  12. Money would not exist
+  13. Debt can not exist
+  14. Temporality of Demand can not be manipulated
+  17. There are no need for Economic, Financial, or Governmental Systems (17)
+
 
 # Part 3: The Real World
 ## Assumptions:
