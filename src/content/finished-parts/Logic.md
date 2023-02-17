@@ -95,8 +95,7 @@ Subjections of Reality will essentially never be perfect (3) && Humans interact 
   4. The future of Reality can be calculated if there are no Humans
   5. The future of Reality can not be calculated if there are Humans
 * Time
-  * Time always moves forward
-  6. Time can not move backwards
+  * Time always moves forward => Time can not move backwards (6)
 * S&D Field
   * Humans and Reality interact with each other over the S&D Field
 * The Model In General
@@ -108,11 +107,13 @@ Subjections of Reality will essentially never be perfect (3) && Humans interact 
 # Part 2: A Utopian World
 ## Assumptions:
 * Humans
-  * People prioritize Humanity and specifically Humanities happiness
+  * People prioritize Humanity and specifically maximizing Humanities Utility
     * Humans are always magnanimous: Demands are always made with the assumption of working towards a greater goal
   * This decision making process is for Utility in the present and Utility in the future
 * The S&D Field
   * Economic efficiency and average Utility gained per moment is strongly positively correlated
+* The Model In General
+  * A higher TFP allows for S&D Connections with a higher magnitude
 
 ## Proofs:
 ### Humans
@@ -158,10 +159,14 @@ There is no need to trade ownership of Supply (9)
   => Money would be a detriment (11) 
 
 ### The Model In General
-Ownership of Supply would be a detriment (5) && Economic efficiency and average Utility gained per moment is strongly positively correlated
+Ownership of Supply would be a detriment (5) 
+&& Economic efficiency and average Utility gained per moment is strongly positively correlated 
+&& People prioritize Humanity and specifically maximizing Humanities Utility
   => Ownership of Supply would not exist (6)
   
-Money would be a detriment (11) && Economic efficiency and average Utility gained per moment is strongly positively correlated
+Money would be a detriment (11) 
+&& Economic efficiency and average Utility gained per moment is strongly positively correlated
+&& People prioritize Humanity and specifically maximizing Humanities Utility
   => Money would not exist (12)
 
 Ownership of Supply would not exist (6)
@@ -175,9 +180,12 @@ Temporality of Demand can not be manipulated (14)
 && Ownership of Supply would not exist (6)
   => There are no need for Economic, Financial, or Governmental Systems (17)
 
+A higher TFP allows for S&D Connections with a higher magnitude && TFP will exist and improve over Time
+  => Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect (18)
+
 ## What We Have Proven:
 * Humans
-  9. There is no need to trade ownership of Supply (9)
+  9. There is no need to trade ownership of Supply
   10. There will be no barter.
   15. The Material "Hard-Line" problem would not exist
   16. The Spiritual "Hard-Line" problem would not exist
@@ -196,14 +204,15 @@ Temporality of Demand can not be manipulated (14)
   12. Money would not exist
   13. Debt can not exist
   14. Temporality of Demand can not be manipulated
-  17. There are no need for Economic, Financial, or Governmental Systems (17)
+  17. There are no need for Economic, Financial, or Governmental Systems
+  18. Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect
 
 ## Assumptions And Proven Facts:
 * Humans
-  * People prioritize Humanity and specifically Humanities happiness
+  * People prioritize Humanity and specifically maximizing Humanities Utility
     * Humans are always magnanimous: Demands are always made with the assumption of working towards a greater goal
   * This decision making process is for Utility in the present and Utility in the future
-  9. There is no need to trade ownership of Supply (9)
+  9. There is no need to trade ownership of Supply
   10. There will be no barter.
   15. The Material "Hard-Line" problem would not exist
   16. The Spiritual "Hard-Line" problem would not exist
@@ -223,7 +232,8 @@ Temporality of Demand can not be manipulated (14)
   12. Money would not exist
   13. Debt can not exist
   14. Temporality of Demand can not be manipulated
-  17. There are no need for Economic, Financial, or Governmental Systems (17)
+  17. There are no need for Economic, Financial, or Governmental Systems
+  18. Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect
 
 
 # Part 3: The Real World
