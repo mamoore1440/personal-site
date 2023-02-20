@@ -328,9 +328,46 @@ Temporality of Demand can not be manipulated (14)
 && Ownership of Supply would not exist (6)
   => There are no need for Economic, Financial, or Governmental Systems (17)
 
-(The Model In General) This is something you will not understand which is fine. Essentailly because Debt can not be created, Demand does not need to be rejected, and because ownership of Supply would not exist that there wouldn't even be a need for any type of System. Humanity would like in anarchy and it would work. Obviously this isn't the real world but we knew that most of the assumptions and facts proven in this part wouldn't be applicable to the real world.
+(The Model In General) This is something you will not understand which is fine. Essentailly because Debt can not be created, Demand does not need to be rejected, and because ownership of Supply would not exist that there wouldn't even be a need for any type of System. Humanity would live in anarchy and it would work. Obviously this isn't the real world but we knew that most of the assumptions and facts proven in this part wouldn't be applicable to the real world.
 
 A higher TFP allows for S&D Connections with a higher magnitude && TFP will exist and improve over Time
   => Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect (18)
 
-(The Model In General) The final proof is very interesting and extremely important. Because we know that TFP allows for S&D Connections with a bigger magnitude and that TFP will always increase we know that Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect. In other words that if Humans were truly free that they would eventually have the ability to decimate everyone and everything. This is already the case in the world and has been for some time. Humanity has had the ability to set of nukes and destroy the planet for a long time. Nuclear technology was technology that was invented 100 years ago.
+(The Model In General) The final proof is very interesting and extremely important. Because we know that TFP allows for S&D Connections with a bigger magnitude and that TFP will always increase we know that Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect. In other words that if Humans were truly free that they would eventually have the ability to decimate everyone and everything. This is already the case in the world and has been for some time. Humanity has had the ability to set of nukes and destroy the planet for a long time. It's important to think about this: Nuclear technology was technology that was invented 100 years ago.
+
+### Final Facts About The Model:
+Here is a quick overview of the facts we assumed and proved:
+
+Assumptions:
+* Humans are always magnanimous
+* This decision making process is for Utility in the present and Utility in the future
+* Economic efficiency and average Utility gained per moment is strongly positively correlated
+* A higher TFP allows for S&D Connections with a higher magnitude
+
+Proven:
+* Humans
+  9. There is no need to trade ownership of Supply
+  10. There will be no barter.
+  15. The Material "Hard-Line" problem would not exist
+  16. The Spiritual "Hard-Line" problem would not exist
+* Reality
+  3. Supply will always stay in the CC
+  7. Supply will always stay in the CC => Supply never enters PP
+* The S&D Field
+  1. There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
+  2. There will never be a tragedy of the commons
+  4. Demand never needs to be rejected, only filtered
+  5. Ownership of Supply would be a detriment
+  8. The economy is running at peak possible efficiency
+  11. Money would be a detriment
+* The Model In General
+  6. Ownership of Supply would not exist
+  12. Money would not exist
+  13. Debt can not exist
+  14. Temporality of Demand can not be manipulated
+  17. There are no need for Economic, Financial, or Governmental Systems
+  18. Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect
+
+
+# Conclusion
+Based on the assumptions we made and the proofs we did we can conclude that if Humanity did always work up we would live in a Utopia. There would be no locks and no password. There would be no private property and no governments. No war and no social classes. No taxes and no paperwork. No defined jobs and no defined work week. No insurance and no payroll. No money, no debt, no advertisements. It would be a utopia. A true utopia. 

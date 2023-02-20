@@ -104,7 +104,7 @@ Subjections of Reality will essentially never be perfect (3) && Humans interact 
   8. Humans, Reality, and Time can be viewed at any scale with losing information
   9. Pareto efficiency is essentially impossible
 
-# Part 2: A Utopian World
+# Part 2: The Utopian Application
 ## Assumptions:
 * Humans
   * People prioritize Humanity and specifically maximizing Humanities Utility
@@ -228,6 +228,7 @@ A higher TFP allows for S&D Connections with a higher magnitude && TFP will exis
   8. The economy is running at peak possible efficiency
   11. Money would be a detriment
 * The Model In General
+  * A higher TFP allows for S&D Connections with a higher magnitude
   6. Ownership of Supply would not exist
   12. Money would not exist
   13. Debt can not exist
@@ -243,6 +244,8 @@ A higher TFP allows for S&D Connections with a higher magnitude && TFP will exis
 
 ## What We Have Proven:
 
+## Assumptions And Proven Facts:
+
 # Part 4: Our Real World
 ## Assumptions:
 
@@ -250,9 +253,13 @@ A higher TFP allows for S&D Connections with a higher magnitude && TFP will exis
 
 ## What We Have Proven:
 
+## Assumptions And Proven Facts:
+
 # Part 5: Theological Hell
 ## Assumptions:
 
 ## Proofs:
 
 ## What We Have Proven:
+
+## Assumptions And Proven Facts:

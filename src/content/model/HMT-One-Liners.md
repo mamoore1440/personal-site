@@ -16,7 +16,7 @@ tags: []
 ## Econ One Liners:
 * Post-Money resource allocation and ASV allocation are the same.
 * Have to talk about consumer products forcing more consumption closer in the future than would otherwise be needed.
-* Debt over 20yrs is most likely consuption debt. The chance debt is investment rather than consuption is inversly correlated to maturity
+* Debt over 20yrs is most likely consumption debt. The chance debt is investment rather than consuption is inversly correlated to maturity
 * As TFP increases so too does the intracacy and the ability of institutions to do the three jobs
 * If today one Demand needs filtering then tomorrow two will. Sinful Demand breeds the need for a DF.
 * Pre-Sin there are two time frames to view economics. Short-term which is intra moment; and long-term which is at infinity. No other time frame inbetween matters.
@@ -48,6 +48,8 @@ tags: []
 
 * A populist leader is one that creates the hard line. When economic and financial collapse does happen it removes the percieved line from both an individual and societies reality. But a hard line is needed; some Demands when connect only hurt everyone. These Demands must be filtered and thus the hard line has to be created. Society wants a hard line and a populist leader promises one.
 
+* Modern politics is awful. The left wants you to ignore your brain but the right wants you to ignore your heart. Both are failures.
+
 ## WW3 One Liners:
 * Russia and China won't let you have a democratic republic anymore. They want you to choose a democracy or a republic. Unfortunetly both of these infinitely worse than the 
   combination. But still, all three fail at infinity.
@@ -63,6 +65,8 @@ tags: []
   * Why did Trump and The Israeli Prime Minister go to the same private college?
   * Why did Trump have a failed Insurrection just like Hitler?
     * Learn more about Napolean. Did he also have this?
+
+* The Devil loves all his chess games. God hates each game but plays because he loves us.
 
 ## Life, Death, And Sin One Liners:
 * The Material hard line probem can be solved by a finite solution. The infinite problem can only be solved with a spiritual solution.
@@ -98,7 +102,7 @@ tags: []
   * And the solution of linking everyone up to find the truth amoungst everyone will fail. 
     * Jesus was the truth! And you rejected him! This is a spiritual battle not a physical one!
       * You're reach out to him during your beast system and he's gonna say "ehhh, no thank you". (He's also going to kill you but this was funnier).
-    * This is why Jesus talks about you can change reality if you believe it. "Faith as much as a mustard seed  could move a mountain." 
+    * This is why Jesus talks about you can change reality if you believe it. "Faith as much as a mustard seed could move a mountain." 
       * When you sin you kill your truth. You become finite instead of infinite.
   * You have to understand this is infinity. Your finite games will not work.
     * Jesus ressurected from the dead. That is the truth. Your logic will fail if you reject this: because it means everything you believe in is wrong.
