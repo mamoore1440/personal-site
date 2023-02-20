@@ -7,7 +7,6 @@ img: hello-world.png
 tags: []
 ---
 
-# Act 1: The Model
 ## Part 0: Introduction
 * Who I Am 
 * Why I Am Doing This
@@ -50,7 +49,6 @@ tags: []
 
 ## Part 3: The Real World
 * Introduction:
-  * Part Two Recap
   * The Actual Solution For Decision Making
   * Subjective Value For Supply
   * A Faltered Economic Efficiency
@@ -64,7 +62,6 @@ tags: []
 
 ## Part 4: Structural Economics
 * Introduction:
-  * Part Three Recap
   * Money Based Debt
   * Money Evolution
 * Explanation:
@@ -75,10 +72,8 @@ tags: []
   * "The Rate"
   * Inflation & Deflation
 
-# Act 2: The Setup
 ## Part 5: Generational Term Economics
 * Introduction:
-  * Part Four Recap
   * Why The Generational Term Matters
   * Markets & The Invisible Hand
 * Explanation:
@@ -90,64 +85,42 @@ tags: []
   * Everything Is Connected; Nothing Is Independant
 
 ## Part 6: America's Economic Situation
-* Introduction:
-  * Part Five Recap
+* Essays:
   * Seeing Rather Than Defining (In Regards To The Model)
-* Explanation:
-  * Logic
-* Concepts:
   * The Ponzi Schemes (Stock, Social Security, Pension)
   * QE
   * The Micro Booms
   * America's Tightwalk Between Inflation And Deflation
-  * The Enslaved Generations
+  * The Enslaved Generations & The Problem With Children
 
 ## Part 7: The World's Economic Situation
-* Introduction:
-  * Part Six Recap
+* Essays:
   * The Disjointed Yet Combined System
-* Explanation:
-  * Logic
-* Concepts:
   * The World's Reserve Currency
   * The Military Industrial Complex
   * The Enslaved Nations
   * Bitcoin As A Weapon
 
-# Act 3: The End
 ## Part 8: The Social Situation
-* Introduction:
-  * Part Seven Recap
+* Essays:
   * A System Dissected
-  * America's Social Balance
-  * The World's Social Balance
-* Explanation:
-  * Logic
-* Concepts:
+  * America & The World's Social Balance
   * Generational Conforming
-  * The Gender Collapse
+  * The Psychological Collapse (Gender & Relationships)
   * The Political Collapse
   * The Financial Collapse
-  * Why Do Dictators Exist & How To Incubate A Dictator
 
-## Part 9: Say Goodbye Now
-* Introduction:
-  * Part Eight Recap
-* Explanation:
-  * Logic
-* Concepts:
+## Part 9: Say Goodbye To Our System Now
+* Essays:
+  * Why Do Dictators Exist & How To Incubate A Dictator
+  * Let's Go To War
   * Why This Is The Last Cycle
   * Where Is The Perfect System?
-  * White Vs. Black Hat
 
 ## Part 10: We Were Pawns
-* Introduction:
-  * Part Nine Recap
+* Essays:
   * God, The Angels, And Humanity
-  * Dimensional Life
   * A Finite Vs. Infinite Existance
-* Explanation:
-  * Logic
-* Concepts:
+  * White Vs. Balck Hat
   * Who Can Judge The Our Dimension?
   * Who Wants The Pawns?
