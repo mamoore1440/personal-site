@@ -76,121 +76,6 @@ We can simply say that Supply exists in either the community chest (CC) or in pr
 
 Luckily we don't actually have to define PP or CC mathematically in the model. We can just assume this information is held in the Reality Matrix. Technically we can be so broad with this that the information could actually even be held in the Human. Stricly speaking it doesn't matter and to be quite frank I don't care. Again the lower level of this is only being fleshed out to quell the haters.
 
-
-# Components Of The Model:
-## Value
-This is an infinite database. You can give this a function which will return a result.
-Parts required for the question you ask Value:
-* Context
-  * Humans if necessary
-* Time
-* Supply
-
-If any context is missing then the result returned will assume you meant everything (every context, every Human, every Time, every Supply)
-
-# Logic:
-## Assumptions:
-* Humans
-  * People prioritize Humanity and specifically maximizing Humanities Utility
-    * Humans are always magnanimous: Demands are always made with the assumption of working towards a greater goal
-  * This decision making process is for Utility in the present and Utility in the future
-* The S&D Field
-  * Economic efficiency and average Utility gained per moment is strongly positively correlated
-* The Model In General
-  * A higher TFP allows for S&D Connections with a higher magnitude
-
-## Proofs:
-### Humans
-Ownership of Supply would not exist (6)
-  => There is no need to trade ownership of Supply (9)
-
-There is no need to trade ownership of Supply (9)
-  => There will be no barter (10)
-
-Ownership of Supply would not exist (6) 
-  => The Material "Hard-Line" problem would not exist (15)
-
-There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
-  => Cohesion will never get entangled
-    => Cohesion always stays at 100
-      => The Spiritual "Hard-Line" problem would not exist (16)
-
-### Reality
-There will never be a tragedy of the commons (2)
-  => Supply will always stay in the CC (3)
-
-Ownership of Supply would not exist (6)
-  => Supply will always stay in the CC (7) => Supply never enters PP (7)
-
-
-### The S&D Field
-Humans are always magnanimous
-  => There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
-
-There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
-  => There will never be a tragedy of the commons (2)
-
-There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity (1)
-  => Demand never needs to be rejected, only filtered (4)
-
-Demand never needs to be rejected, only filtered (4)
-  => Ownership of Supply would be a detriment (5)
-
-Demand never needs to be rejected, only filtered (4)
-  => The economy is running at peak possible efficiency (8)
-
-There is no need to trade ownership of Supply (9)
-  => Money would be a detriment (11) 
-
-### The Model In General
-Ownership of Supply would be a detriment (5) 
-&& Economic efficiency and average Utility gained per moment is strongly positively correlated
-&& People prioritize Humanity and specifically maximizing Humanities Utility
-  => Ownership of Supply would not exist (6)
-  
-Money would be a detriment (11) 
-&& Economic efficiency and average Utility gained per moment is strongly positively correlated
-&& People prioritize Humanity and specifically maximizing Humanities Utility
-  => Money would not exist (12)
-
-Ownership of Supply would not exist (6)
-  => Debt can not exist (13)
-
-Debt can not exist (13) || The economy is running at peak possible efficiency (8)
-  => Temporality of Demand can not be manipulated (14)
-
-Temporality of Demand can not be manipulated (14)
-&& Demand never needs to be rejected, only filtered (4)
-&& Ownership of Supply would not exist (6)
-  => There are no need for Economic, Financial, or Governmental Systems (17)
-
-A higher TFP allows for S&D Connections with a higher magnitude && TFP will exist and improve over Time
-  => Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect (18)
-
-## What We Have Proven
-* Humans
-  9. There is no need to trade ownership of Supply
-  10. There will be no barter.
-  15. The Material "Hard-Line" problem would not exist
-  16. The Spiritual "Hard-Line" problem would not exist
-* Reality
-  3. Supply will always stay in the CC
-  7. Supply will always stay in the CC => Supply never enters PP
-* The S&D Field
-  1. There will never be an occurance of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
-  2. There will never be a tragedy of the commons
-  4. Demand never needs to be rejected, only filtered
-  5. Ownership of Supply would be a detriment
-  8. The economy is running at peak possible efficiency
-  11. Money would be a detriment
-* The Model In General
-  6. Ownership of Supply would not exist
-  12. Money would not exist
-  13. Debt can not exist
-  14. Temporality of Demand can not be manipulated
-  17. There are no need for Economic, Financial, or Governmental Systems
-  18. Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect
-
 # Explanation:
 ## Components Of The Model
 ### Value
@@ -331,9 +216,9 @@ Temporality of Demand can not be manipulated (14)
 (The Model In General) This is something you will not understand which is fine. Essentailly because Debt can not be created, Demand does not need to be rejected, and because ownership of Supply would not exist that there wouldn't even be a need for any type of System. Humanity would live in anarchy and it would work. Obviously this isn't the real world but we knew that most of the assumptions and facts proven in this part wouldn't be applicable to the real world.
 
 A higher TFP allows for S&D Connections with a higher magnitude && TFP will exist and improve over Time
-  => Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect (18)
+  => Eventually S&D Connections with EXTREMELY HIGH magnitude will be able to Connect (18)
 
-(The Model In General) The final proof is very interesting and extremely important. Because we know that TFP allows for S&D Connections with a bigger magnitude and that TFP will always increase we know that Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect. In other words that if Humans were truly free that they would eventually have the ability to decimate everyone and everything. This is already the case in the world and has been for some time. Humanity has had the ability to set of nukes and destroy the planet for a long time. It's important to think about this: Nuclear technology was technology that was invented 100 years ago.
+(The Model In General) The final proof is very interesting and extremely important. Because we know that TFP allows for S&D Connections with a bigger magnitude and that TFP will always increase we know that Eventually S&D Connections with EXTREMELY HIGH magnitude will be able to Connect. In other words that if Humans were truly free that they would eventually have the ability to decimate everyone and everything. This is already the case in the world and has been for some time. Humanity has had the ability to set of nukes and destroy the planet for a long time. It's important to think about this: Nuclear technology was technology that was invented 100 years ago.
 
 ### Final Facts About The Model:
 Here is a quick overview of the facts we assumed and proved:
@@ -366,8 +251,15 @@ Proven:
   13. Debt can not exist
   14. Temporality of Demand can not be manipulated
   17. There are no need for Economic, Financial, or Governmental Systems
-  18. Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect
+  18. Eventually S&D Connections with EXTREMELY HIGH magnitude will be able to Connect
 
+# Concepts
 
-# Conclusion
+## This Is A Utopia
 Based on the assumptions we made and the proofs we did we can conclude that if Humanity did always work up we would live in a Utopia. There would be no locks and no password. There would be no private property and no governments. No war and no social classes. No taxes and no paperwork. No defined jobs and no defined work week. No insurance and no payroll. No money, no debt, no advertisements. It would be a utopia. A true utopia. 
+
+## Economic Efficiency
+
+## Value Trades
+
+## Supply Splits

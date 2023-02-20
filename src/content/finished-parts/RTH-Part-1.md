@@ -8,7 +8,7 @@ tags: []
 ---
 
 # Introduction:
-## Academics Problem
+## Academic's Problem
 In academic economics there seems to be a fundamental misunderstanding of what is actually happening in economics. Academics spends way too much time memorizing equations, models, and variables that are of no use to real world. The models looked at are hundreds of years old and have no actual bearing. Most of the time the models looked at and tested over in academics, whether that testing be testing through exams or homework, are paradoxically both hyper specific and not useful at all. In my time in academic economics I have learned, memorized and have succefully passed tests about information that I have never actually even seen or used before. 
 
 A prime example of this irrelevancy for the information taught is Solow's Growth Model. The Model was ground breaking in 1987 but explains just about nothing in regards to the real world. Solow recieved the nobel prize in 1987 for his work but I doubt much changed with the invention of his model. The model, which takes in three variables: TFP, Capital, and Labor, doesn't even include things like debt. Incase you didn't know: TFP is just the progress of technology (A higher TFP means more advanced technology). The model is essentially a basic line you would have learned in grade school. Yet Solow won the Nobel Prize in Economics for this. Why he won I'm not sure; just about nothing can be gleaned from his model. The only information that can be gleaned would be useful to a nation that existed well before the industrial revolution. The model is genuinely so worthless that I actually thought the model was invented 200 years ago. I only found out it was made in 1987 when I wrote this paragraph. However, this model is the furthest academic economics has to understanding economics. This is extremely bleak.
@@ -27,120 +27,6 @@ In this part (part one) I will not draw any major conclusions about the model. W
 I am first going to show you the components of the model. These are the four components I was talking about earlier (Reality, Time, Humans, and the S&D Field). Then I will make assumptions about the components but I will base them on real life. Then I will walk through logical deductions about the assumptions. From these deductions we will prove more facts about the model and in turn real life. The Components and Logic sections are the math behind the model. If you don't 100% understand the math it doesn't really matter. I need you to understand the high level of this model not the low level. To be honest the low level is only being fleshed out so that I can logically prove the assertions I will make later in this series, so that I am not called insane.
 
 There is an explanation sections at the end of this part which explains what happened in the Components and Logic sections. My end goal is to have everyone who wants to understand to be able to understand. Because of this I will be walking everyone through the model in the explanation section. Consider this as a college level class but being taught on a high school level. I will not ask you to do homework, quizes, or exams: I only ask you put in enough effort to understand what is happening.
-
-
-# Components Of The Model:
-## Reality
-This is Reality.
-* R(T) will return the state of Reality at Time T.
-* Δ(R(T)) will return the next succession of the Reality matrix at Time T.
-* R(T) = Δ(R(T-1)). This equation connects Reality in the present to Reality in the future.
-
-## Time 
-This is Time; Time always ticks forward.
-
-## Humans
-This is Humans
-* Humans have Internal Utility
-* H(T) will return the state of Humans at Time T.
-* Δ(H(T)) will return the next succession of the Humans matrix at Time T.
-* H(T) = Δ(H(T-1)). This equation connects Humans in the present to Humans in the future.
-
-
-## Supply and Demand Field (S&D Field)
-This is the field on which Humans and Reality interact. This is not physical like Humans and Reality: you can not point to Demand, Supply, or a Connection.
-There are two parts to the field. One is Demands which originate from Humans and the second is Supply which originates from Reality.
-Connections between Demand and Supply take place within a moment.
-
-* F_D(T) will return the Demands on the field (*)
-* F_S(T) will return the Supply on the field (*)
-
-When a Supply and a Demand Connect on the Supply & Demand Field:
-  * Internal Utility changes for all Humans.
-  * Reality changes in a deterministic way based on the single Supply and Demand Connection
-
-
-(*) Note: 
-* F_D(T) and H(T) are the same function but with different prioritizations.
-  * Like if you asked for a list of student and classes they take vs. list of classes and the student who take them.
-    * All information returned from one function exists in the other.
-  * F_D(T) prioritizes Demands
-  * H(T) prioritizes Humans
-* This is the same for F_S(T) and R(T).
-
-
-# Logic:
-## Assumptions: 
-* Humans
-  * Humans have Subjections of Reality
-  * Humans are inventive
-  * Humans are imperfect at viewing Reality
-  * Humans have free-will
-  * Humans interact with Reality based on their Subjections
-  * Humans are self aware about their existance (They know the assumption and they know they move forward in Time)
-* Reality
-  * Reality does not have free-will
-  * Reality changes over Time
-* Time
-  * Time always moves forward
-* S&D Field
-  * Humans and Reality interact with each other over the S&D Field
-* The Model In General
-  * The base measurements for Humans, Reality, and Time are the smallest possible measurements
-
-## Proofs
-### Humans
-Humans have Subjections of Reality && Reality changes over Time
-  => Human Subjections change over Time (1)
-
-Humans have free-will 
-  => Changes in Humans are nondeterministic
-    => The future state of Humans is essentially impossible to determine (2)
-
-Humans are imperfect at viewing Reality && Humans have Subjections of Reality
-  => Subjections of Reality will essentially never be perfect (3)
-
-### Reality
-Reality does not have free-will && Reality changes over Time
-  => Any changes in Reality that originate from Reality are deterministic
-    => The future of Reality can be calculated if there are no Humans (4)
-
-Humans have free-will && Reality changes over Time && Humans and Reality interact with each other over the S&D Field
-  => Any changes in Reality that originate from Humans are nondeterministic
-    => The future of Reality can not be calculated if there are Humans (5)
-
-### Time
-Time always moves forward
-  => Time can not move backwards
-
-### The Model In General
-Humans are inventive 
-  => Humans will discover and invent over Time 
-    => TFP will exist and improve over Time (6)
-
-The base measurements for Humans, Reality, and Time are the smallest possible measurements && Changes in Humans and Reality occur one at a time over these smallest measurements
-  => These smallest changes can be combined together to form an aggregate change without losing information (This is integration in calculus)
-    => Humans, Reality, and Time can be viewed at any scale with losing information (7)
-
-Subjections of Reality will essentially never be perfect (3) && Humans interact with Reality based on their Subjections
-  => The perfectly efficient S&D Connections will essentially never take place
-    => Pareto efficiency is essentially impossible (8)
-
-## What We Have Proven:
-* Humans
-  1. Human Subjections change over Time
-  2. The future state of Humans is essentially impossible to determine
-  3. Subjections of Reality will essentially never be perfect
-* Reality
-  4. The future of Reality can be calculated if there are no Humans
-  5. The future of Reality can not be calculated if there are Humans
-* Time
-  6. Time can not move backwards
-* The Model In General
-  7. TFP will exist and improve over Time
-  8. Humans, Reality, and Time can be viewed at any scale with losing information
-  9. Pareto efficiency is essentially impossible
-
 
 # Explanation:
 What we have just created is an incredibly abstract view of the world. We have two parts to the Model. One side is the components which are mathematically defined as functions. The second part is the logic which is the assumptions, proofs, and proven facts. There are only four components, each of which are incredibly simple but contain the complexities of real life. The first part is Reality and we will start here.
@@ -370,9 +256,11 @@ Proven:
 
 Technically the inbetween facts also belong in the Proven section above. But I only included facts that actually mattered.
 
-# Conclusion
+# Concepts
 For now the model is rather useless, but it is still a good overview of the world. There are a couple on concepts I would like to brielfy touch upon here that are important for the real world but do not show up in the model in a meaningful way. These concepts are opportunity cost and "the economy". 
 
+## Opportunity Cost
 Firstly opportunity cost is simply a fact about the reality of the real world. Opportunity cost states that for any action there will be a cost. The cost may not be financial but there will be a cost and that cost is that now you can't take the other actions. So for example if in a minute you could either only eat an apple or only eat a banana then the opportunity cost to eating one of the fruits would be that you couldn't eat the other. If you eat the apple then you can't eat the banana and if you eat the banana then you can't eat the apple. This concept applies everywhere however. If you spend an hour studying then you can't spend that hour cooking. It's important to understand everyone experiences opportunity cost. Even the richest individuals in the world can only do one thing at a time. They can not vacation in Europe and vaction in the Bahamas at the same time. Here we do not have opportunity cost defined per say but it is inherient in the model. If an S&D Connection takes place in a moment then all other S&D Connections can not take place in that moment. Opportunity cost is thus inherient in the model.
 
+## "The Economy"
 The second concept is a bit more tricky but I hope to cover it in a concise way. In the real world "the economy" is generally considered to be all financial or "economic" transactions. "economic" can be defined how ever they want but it doesn't actually matter. Generally "the economy" is seen as an analysis of some specific transactions over a defined time period. Here we can not do that. We don't know what the S&D Connections are just that they exist. We also wouldn't even want to do that. That definition of "the economy" is needlessly reductive which saddens me because I love being reductive. However, these definitions ignore quite a bit of S&D Connections. If you go for a walk through a park you are gaining Utility but this is not an action that would usually be considered to be part of "the economy". But this is still an important action and very much should be included. Because of this we can create an even more reductive but also more ecompassing definiton for "the economy". From now on we are going to consider "the economy" to just be the S&D Connections that occur on the S&D Field. If you are exercising by going on a run then it will be considered an action taken in "the economy". If you are drawing on chalk on the ground this will be an action considered in "the economy". Actions and transaction that have an economic or financial side to them will also be considered but they are not the end all be all just because there is a economic or financial side. They will be treated the exact same. At the end of the day Utility gained or loss is the most important side to look at not the financial side.

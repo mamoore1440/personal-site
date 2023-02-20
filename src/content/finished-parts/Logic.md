@@ -1,7 +1,7 @@
 ---
 id: 112
-title: "Model: Logic and Assumptions"
-slug: model-logic-assumptions
+title: "Model: Logical Assumptions And Proofs"
+slug: model-logical-assumptions-and-proofs
 date: Jan 1, 2023
 img: hello-world.png
 tags: []
@@ -48,20 +48,20 @@ Humans have free-will && Reality changes over Time && Humans and Reality interac
 
 ### Time
 Time always moves forward
-  => Time can not move backwards
+  => Time can not move backwards (6)
 
 ### The Model In General
 Humans are inventive 
   => Humans will discover and invent over Time 
-    => TFP will exist and improve over Time (6)
+    => TFP will exist and improve over Time (7)
 
 The base measurements for Humans, Reality, and Time are the smallest possible measurements && Changes in Humans and Reality occur one at a time over these smallest measurements
   => These smallest changes can be combined together to form an aggregate change without losing information (This is integration in calculus)
-    => Humans, Reality, and Time can be viewed at any scale with losing information (7)
+    => Humans, Reality, and Time can be viewed at any scale with losing information (8)
 
 Subjections of Reality will essentially never be perfect (3) && Humans interact with Reality based on their Subjections
   => The perfectly efficient S&D Connections will essentially never take place
-    => Pareto efficiency is essentially impossible (8)
+    => Pareto efficiency is essentially impossible (9)
 
 ## What We Have Proven:
 * Humans
@@ -95,7 +95,8 @@ Subjections of Reality will essentially never be perfect (3) && Humans interact 
   4. The future of Reality can be calculated if there are no Humans
   5. The future of Reality can not be calculated if there are Humans
 * Time
-  * Time always moves forward => Time can not move backwards (6)
+  * Time always moves forward
+  * Time can not move backwards (6)
 * S&D Field
   * Humans and Reality interact with each other over the S&D Field
 * The Model In General
@@ -181,7 +182,7 @@ Temporality of Demand can not be manipulated (14)
   => There are no need for Economic, Financial, or Governmental Systems (17)
 
 A higher TFP allows for S&D Connections with a higher magnitude && TFP will exist and improve over Time
-  => Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect (18)
+  => Eventually S&D Connections with EXTREMELY HIGH magnitude will be able to Connect (18)
 
 ## What We Have Proven:
 * Humans
@@ -205,7 +206,7 @@ A higher TFP allows for S&D Connections with a higher magnitude && TFP will exis
   13. Debt can not exist
   14. Temporality of Demand can not be manipulated
   17. There are no need for Economic, Financial, or Governmental Systems
-  18. Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect
+  18. Eventually S&D Connections with EXTREMELY HIGH magnitude will be able to Connect
 
 ## Assumptions And Proven Facts:
 * Humans
@@ -234,7 +235,7 @@ A higher TFP allows for S&D Connections with a higher magnitude && TFP will exis
   13. Debt can not exist
   14. Temporality of Demand can not be manipulated
   17. There are no need for Economic, Financial, or Governmental Systems
-  18. Eventually EXTREMELY HIGH magnitude S&D Connections will be able to Connect
+  18. Eventually S&D Connections with EXTREMELY HIGH magnitude will be able to Connect
 
 
 # Part 3: The Real World
@@ -246,16 +247,7 @@ A higher TFP allows for S&D Connections with a higher magnitude && TFP will exis
 
 ## Assumptions And Proven Facts:
 
-# Part 4: Our Real World
-## Assumptions:
-
-## Proofs:
-
-## What We Have Proven:
-
-## Assumptions And Proven Facts:
-
-# Part 5: Theological Hell
+# Part 4: The Historical Side
 ## Assumptions:
 
 ## Proofs:
