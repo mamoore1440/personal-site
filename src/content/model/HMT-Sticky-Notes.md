@@ -81,7 +81,6 @@ It's a good idea to explain the model very abstractly at the start but to be rea
 ### Naming The 100-Year Crash
 No one even talks the 100-year cycle. The 7-year cycle is barely talked about and very much not understood. So I've never even seen this idea discused before. Ray Dalio is only person I've seen name it. It unreal to the world that 2008 should have been a of 1929 but wasn't. They don't understand what actually happened. People have never even seen the idea of a micro-boom before. To say that economy is on life support by the government in order to keep the economy alive is unreal. And to say the last 15 years were fake is going to be even harder to take in. But this envelouping cycle can only delayed never avoided. In this way the 100-year Crash has only happened twice! Napolean and Hitler
 
-
 ### I'm an extreme outlier
 To see this issue I had to be Gen Z (economic generation issue, and ability to parse information like no tomorrow issue), have ADHD, have aspergers, be "highly intelligent", AND constantly doubt myself.
 

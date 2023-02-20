@@ -6,6 +6,7 @@ date: Jan 1, 2023
 img: hello-world.png
 tags: []
 ---
+
 # Part 1: Basics Of The Model
 ## Assumptions: 
 * Humans

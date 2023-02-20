@@ -87,7 +87,7 @@ Temporality of demand will be manipulated
 
 
 ## SN: Chains Of Logic
-This will be the last facist uprising. The only reason you have a fascist uprising is due to the 100-year cycles destroying a society. The 100-year cycle is only possible due to a fundamental misunderstanding in economics. The misunderstanding, or more accurately purposely hidden knowldege, allows for levers to be manipulated that are deemed to be invisable by leading institutions (fed, fed, academics, finance). This allows to attempted usurption of fundamental economic principles in an attempt to never have the 100-year bust.
+This will be the last facist uprising. The only reason you have a fascist uprising is due to the 100-year cycles destroying a society. The 100-year cycle is only possible due to a fundamental misunderstanding in economics. The misunderstanding, or more accurately purposely hidden knowldege, allows for levers to be manipulated that are deemed to be invisible by leading institutions (fed, fed, academics, finance). This allows to attempted usurption of fundamental economic principles in an attempt to never have the 100-year bust.
 Facist uprisings are also a great opportunity for Lucifer to push major changes. Because of this fact and this being the last facist uprising Lucifer will have to act during this cycle. We will be forced to enter revelations by Lucifer: simply because Lucifer pulls the most Humans down during the 100-year crash.
 
 ### God Should Own Your Spirit
