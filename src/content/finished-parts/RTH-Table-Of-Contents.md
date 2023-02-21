@@ -9,7 +9,7 @@ tags: []
 
 ## Part 0: Introduction
 * Who I Am 
-* Why I Am Doing This
+* Why I Am Writing This
 * Logic
 * Proofs
 * Chained Proofs
@@ -51,7 +51,7 @@ tags: []
 * Introduction:
   * The Actual Solution For Decision Making
   * Subjective Value For Supply
-  * A Faltered Economic Efficiency
+  * The Faltering Economic Efficiency From Private Property
 * Explanation:
   * Logic
 * Concepts:
@@ -59,6 +59,7 @@ tags: []
   * Debt
   * Institutions
   * The Hard Line Problems
+  * Tragedy Of The Commons & Publics
 
 ## Part 4: Structural Economics
 * Introduction:
@@ -88,9 +89,9 @@ tags: []
 * Essays:
   * Seeing Rather Than Defining (In Regards To The Model)
   * The Ponzi Schemes (Stock, Social Security, Pension)
-  * QE
+  * QE & Financial Inflation
   * The Micro Booms
-  * America's Tightwalk Between Inflation And Deflation
+  * America's Tightwalk Between Inflation & Deflation
   * The Enslaved Generations & The Problem With Children
 
 ## Part 7: The World's Economic Situation
@@ -113,14 +114,17 @@ tags: []
 ## Part 9: Say Goodbye To Our System Now
 * Essays:
   * Why Do Dictators Exist & How To Incubate A Dictator
+  * The Economic & Social Nukes
   * Let's Go To War
   * Why This Is The Last Cycle
   * Where Is The Perfect System?
 
-## Part 10: We Were Pawns
+## Part 10: The Theological Existance
 * Essays:
   * God, The Angels, And Humanity
-  * A Finite Vs. Infinite Existance
-  * White Vs. Balck Hat
-  * Who Can Judge The Our Dimension?
+  * Sin & Life
   * Who Wants The Pawns?
+  * The Timeline (pre-flood, post-flood, Israel, Jesus, Now)
+  * White Vs. Black Hat
+  * A Finite Vs. Infinite Existance
+  * Who Can Judge The Our Dimension?

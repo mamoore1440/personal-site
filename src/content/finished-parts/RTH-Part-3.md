@@ -12,8 +12,4 @@ tags: []
 
 ## Subjective Value Becomes Important
 
-## Money
-
-## Debt
-
-## Institutions
+## The Faltering Economic Efficiency From Private Property
