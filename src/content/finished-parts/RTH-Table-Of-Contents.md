@@ -1,7 +1,7 @@
 ---
-id: 119
+id: 118
 title: "RTH Table Of Contents"
-slug: rth-part-2
+slug: rth-part-T
 date: Jan 1, 2023
 img: hello-world.png
 tags: []
@@ -29,6 +29,7 @@ tags: []
 * Concepts:
   * Opportunity Cost
   * "The Economy"
+  * Economic Efficiency
 
 ## Part 2: The Utopian Application
 * Introduction:
@@ -43,7 +44,6 @@ tags: []
   * Logic
 * Concepts:
   * This Is A Utopia
-  * Economic Efficiency
   * Value Trades
   * Supply Splits
 
@@ -80,6 +80,7 @@ tags: []
 * Explanation:
   * Logic
 * Concepts:
+  * Financializing The Economy
   * Banking & Fractional Reserve Banking
   * The 100-Year Cycle
   * Capitalism Vs. Communism
