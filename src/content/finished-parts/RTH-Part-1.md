@@ -1,7 +1,7 @@
 ---
 id: 120
-title: "RTH Part One: Basics Of The Model"
-slug: rth-part-1
+title: "AYAY Part One: Basics Of The Model"
+slug: ayay-part-1
 date: Jan 1, 2023
 img: hello-world.png
 tags: []

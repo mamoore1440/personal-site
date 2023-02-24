@@ -1,7 +1,7 @@
 ---
 id: 118
-title: "RTH Table Of Contents"
-slug: rth-part-T
+title: "AYAY Table Of Contents"
+slug: ayay-part-T
 date: Jan 1, 2023
 img: hello-world.png
 tags: []
@@ -72,6 +72,7 @@ tags: []
   * Boom Bust Cycle (7-year)
   * "The Rate"
   * Inflation & Deflation
+    * Talk about taxing through printing fiat. Why pay Taxes?
 
 ## Part 5: Generational Term Economics
 * Introduction:

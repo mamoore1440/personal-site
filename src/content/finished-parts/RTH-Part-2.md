@@ -1,7 +1,7 @@
 ---
 id: 121
-title: "RTH Part Two: The Utopian Application"
-slug: rth-part-2
+title: "AYAY Part Two: The Utopian Application"
+slug: ayay-part-2
 date: Jan 1, 2023
 img: hello-world.png
 tags: []
@@ -263,7 +263,7 @@ Why is this a Utopia? Simply because there is no Demand to be rejected. Demand w
 ## Value Trades
 We talked about this at extent but it is very important to understand. Very rarely do action add Value to Humanity, and, again, by Value I mean Utility that can be had later in Time. The classic example is eating bread. Eating bread gives Utility in the short term but not in the long term. But with bread it makes sense to make this trade. The bread will decay away for Time because of mold so it should be consumed in the present. But with other Supply this argument does not exist. We brielfy touches on suburban housing but it is important you understand what is happening. The suburban housing that is built in America is not built for the long term: it is all a value sink. The houses require constant maintnance which means more Supply that could be used elsewhere. 
 
-On the other hand there can be Value trades that are purely positive. For instance creating a chip factory is most likely going to be a huge positive for society. It will create Utility in the present and Utility in the future. It will allow for S&D Connections that are beneficial. The majority of the purely positive Value trades are S&D Connections that create or refine Supply that are used elsewhere. This would like water, electricity, computer chips, steel. Supply that can be used in just about any area of life. 
+On the other hand there can be Value trades that are purely positive. For instance creating a chip factory is most likely going to be a huge positive for society. It will create Utility in the present and Utility in the future. It will allow for S&D Connections that are beneficial. The majority of the purely positive Value trades are S&D Connections that create or refine Supply that are used elsewhere. This would like water, electricity, computer chips, steel. Supply that can be used in just about any area of life. Researching technology and improving the efficiency of the economy are also purely positive S&D Connections. Researching and discovering the steam engine which allowed for the industrial revolution purely helped humanity, and it is at the echelon in regards to technologies that helped humanity
 
 ## Supply Splits
 Because all of Supply is caught up in Reality and isn't parsed at all it is rather hard to see how Humans interact. This was by design when the model was being created, but it is still a good idea to try and split Supply up. We can do this by creating four categories for Supply. Land, natural resources, financial assets, and everything else. Now it's important to see that everything else is a rather broad category: both factories and sandwiches would be included here, but that doesn't actually matter. They can be combined the same and moving forward we will do so. It's also important to note that because we are making the utopian assumptions that finacial assets don't actually even exist yet. These would be stocks or bonds or whatever but they have no reason to exist in a utopia. As with Money and Debt they would be a detriment to Humanity and thus wouldn't exist. Land and natural resources are very important however. Land is finite and incredibly so; we can not create land. Natural resources also matter because this is the base Supply that Humanity interacts with. This is iron ore, whale oil, actual oil, water and fish in the ocean. These are finite but they are renewable; some more than others. We will talk about these four splits in Supply in various places later on.

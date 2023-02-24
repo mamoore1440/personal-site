@@ -61,6 +61,8 @@ tags: []
 ## Devil's Chess Game One Liners:
 * We obviously have both the knowledge to understand the model and the technology to try usurption of basic principles. But in knowing the knowledge we would also know it's not possible. That the perpetual motion machine in both economic and finance were doomed to fail.
 
+* The economic bomb is the biggest puzzle piece but is very small compared to the actual puzzle
+
 * You can see the Devil appointing the next horn based on the way the occult move. 
   * Why did Trump and The Israeli Prime Minister go to the same private college?
   * Why did Trump have a failed Insurrection just like Hitler?
