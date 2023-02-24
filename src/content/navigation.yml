@@ -9,7 +9,7 @@ navbar:
       href: '/schizo'
     - title: 'Notes'
       href: '/notes'
-    - title: 'Are You Awake Yet'
+    - title: 'Are You Awake Yet?'
       href: '/are-you-awake-yet'
     - title: 'The Model'
       href: '/model'

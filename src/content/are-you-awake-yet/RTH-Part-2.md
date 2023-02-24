@@ -256,7 +256,7 @@ Proven:
 # Concepts
 
 ## This Is A Utopia
-Based on the assumptions we made and the proofs we did we can conclude that if Humanity did always work up we would live in a Utopia. There would be no locks and no password. There would be no private property and no governments. No war and no social classes. No taxes and no paperwork. No defined jobs and no defined work week. No insurance and no payroll. No money, no debt, no advertisements. No one would lie as it would hurt society. It would be a utopia. A true utopia.
+Based on the assumptions we made and the proofs we did we can conclude that if Humanity did always work up we would live in a Utopia. There would be no locks and no password. There would be no private property and no governments. No war and no social classes. No taxes and no paperwork. No defined jobs and no defined work week. No insurance and no payroll. No money, no debt, no advertisements. When you try to connect to the internet there would be one access that wouldn't require a password. You wouldn't have to pay for groceries: you would walk in grab what you want and walk out. No one would lie as it would hurt society. It would be a utopia. A true utopia.
 
 Why is this a Utopia? Simply because there is no Demand to be rejected. Demand will always filter itself which leads to the best S&D Connection taking place. Humanity would still progress just as we do in the real world. We would progress from the wheel to the cart; the enginge to the car; the chip to the computer. Humanity would still progress and it would actually be faster than how we progress right now. The S&D Connections that do take place in any moment or slice of time would be the S&D Connections that are percieved to be the best. 
 
