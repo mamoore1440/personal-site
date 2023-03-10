@@ -12,6 +12,15 @@ HUMANS, MATTER AND TIME NOTES:
 Fold all: ctrl K, ctrl 0
 Unfold all: ctrl K, ctrl J
 
+
+### Inflation In Gold Standard Vs. Fiat
+If the inflation is higher than the rate in the gold standard people will rush to hold gold. But if the debt is too high then you can not raise rates without creating unemployment. Because of this you either have to default or use Fiat. 
+
+In Fiat you can the rate as much as you want because the rush to safety is Fiat itself (gov debt, this is a bet that state will hold power).
+  There are good investment opportunities like stocks but the actual safe hold is always ASV. ASV is liquidity.
+
+In both systems you do not have to worry about lowering the rate too far. That is a problem that arises later. Lowering the rate is always a boom rush initially.
+
 ### SPLIT SUPPLY?
 * Land
 * Natural Resources

@@ -52,7 +52,7 @@ Humans are not always magnanimous
 => There will be occurances of Demand which prioritizes the percieved Utility of an individual over the percieved Utility of all of Humanity
     => There will be tragedy of the commons
         => At times certain Supply will have to leave the CC and enter PP
-    => Demand does need to be rejected
+    => Some Demand does need to be rejected
         => Ownership of Supply is a benefit => Ownership of Supply will exist
             => At times certain Supply will have to leave the CC and enter PP
             => Highly efficient Demands will be rejected
@@ -64,11 +64,11 @@ Humans are not always magnanimous
 
 Ownership of Supply will exist
 => A Humans Utility change moment to moment is dependant on what and how much Supply they own
-    => Humans, by wanting to maximize Utility, will want to maximize Supply ownership
-        => Humans will Value Supply Subjectively
-            => Supply has Subjective Value
-                => The Subjective Value of a Supply affects a Human's decision making process
-
+  => Humans, by wanting to maximize Utility, will want to maximize Supply ownership
+        
+=> Humans will Value Supply Subjectively
+  => Supply has Subjective Value
+    => The Subjective Value of a Supply affects a Human's decision making process
 
 Ownership of Supply does exist => The Material "Hard-Line" problem does exist
 
