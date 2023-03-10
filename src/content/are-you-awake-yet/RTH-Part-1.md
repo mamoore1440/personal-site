@@ -256,12 +256,20 @@ Proven:
 
 Technically the inbetween facts also belong in the Proven section above. But I only included facts that actually mattered.
 
-# Concepts
+# Concepts:
 For now the model is rather useless, but it is still a good overview of the world. There are a couple on concepts I would like to brielfy touch upon here that are important for the real world but do not show up in the model in a meaningful way. These concepts are opportunity cost and "the economy". 
 
 ## Opportunity Cost
 Firstly opportunity cost is simply a fact about the reality of the real world. Opportunity cost states that for any action there will be a cost. The cost may not be financial but there will be a cost and that cost is that now you can't take the other actions. So for example if in a minute you could either only eat an apple or only eat a banana then the opportunity cost to eating one of the fruits would be that you couldn't eat the other. If you eat the apple then you can't eat the banana and if you eat the banana then you can't eat the apple. This concept applies everywhere however. If you spend an hour studying then you can't spend that hour cooking. It's important to understand everyone experiences opportunity cost. Even the richest individuals in the world can only do one thing at a time. They can not vacation in Europe and vaction in the Bahamas at the same time. Here we do not have opportunity cost defined per say but it is inherient in the model. If an S&D Connection takes place in a moment then all other S&D Connections can not take place in that moment. Opportunity cost is thus inherient in the model.
 
+## The Variables
+### TFP
+Again this is technology. The higher the TFP is the more technologically advanced Humanity is. This leads to a higher quality of life, and later as we shall see it does raise some problems. But as of right now there is nothing to worry about! For right now a higher TFP is strictly better!
+
+### The Quality Of Life Variable
+Everyone is always trying to measure the happiness of life. This variable shows up a lot as "Quality Of Life". Simply put this Quality Of Life Variable now has to be Utility. The Happiness of someone's entire life is simply a variable we now know as Utility.
+
+# Tool: 
 ## "The Economy"
 ### A Slice Of The S&D Field
 The second concept is a bit more tricky but I hope to cover it in a concise way. In the real world "the economy" is generally considered to be all financial or "economic" transactions. "economic" can be defined how ever they want but it doesn't actually matter. Generally "the economy" is seen as an analysis of some specific transactions over a defined time period. Here we can not do that. We don't know what the S&D Connections are just that they exist. We also wouldn't even want to do that. That definition of "the economy" is needlessly reductive which saddens me because I love being reductive. However, these definitions ignore quite a bit of S&D Connections. If you go for a walk through a park you are gaining Utility but this is not an action that would usually be considered to be part of "the economy". But this is still an important action and very much should be included. Because of this we can create an even more reductive but also more ecompassing definiton for "the economy". From now on we are going to consider "the economy" to just be the S&D Connections that occur on the S&D Field. If you are exercising by going on a run then it will be considered an action taken in "the economy". If you are drawing on chalk on the ground this will be an action considered in "the economy". Actions and transaction that have an economic or financial side to them will also be considered but they are not the end all be all just because there is a economic or financial side. They will be treated the exact same. At the end of the day Utility gained or loss is the most important side to look at not the financial side.
@@ -271,9 +279,3 @@ Because we are measuring the economy as S&D Connections that take place in a mom
 
 ### Economic Efficiency
 Againm, because we are measuring the economy as S&D Connections that take place in a moment or scope of time we can now look at economic efficiency mathematically. We can say that economic efficiency is just the percentage of Utility gained in that moment compared to the objective maximum possible. So, for instance, if in a year 50K Utility was gained while 100k Utility was the objective maximum then the economy in that year was running at 50% efficiency. We can also note a couple of things in regards to the model. Firstly because we know that pareto efficiency is essentially impossible we then know that the 100% efficiency is essentially impossible. Again this theoretically could happen but in the real world it will never happen. The second thing we can conclude is that based on the utopian assumptions we made about Human behavior that if Humans were always magnanimous the economy would be running at peak possible efficiency. Because we know that economic efficiency and Utility gained per moment or slice of time we then know that if Humans are always magnanimous they will be at be at essentially peak Utility. In the next part when Humans are not always magnanimous we will see efficiency drop. When Humans are reduced to barter the efficiency is dropped beyond compare: this is the lowest possible efficiency. It's important to understand we are not gauging economic efficiency based on money: it is always gauged based on Utility. Again Utility is the only thing that matters.
-
-## TFP
-Again this is technology. The higher the TFP is the more technologically advanced Humanity is.
-
-## The Quality Of Life Variable
-Everyone is always trying to measure the happiness of life. This variable shows up a lot as "Quality Of Life". Simply put this Quality Of Life Variable now has to be Utility. The Happiness of someone's entire life is simply a variable we now know as Utility.

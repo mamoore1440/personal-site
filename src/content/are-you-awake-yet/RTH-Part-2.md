@@ -270,3 +270,11 @@ Because all of Supply is caught up in Reality and isn't parsed at all it is rath
 But firstly Non-Excludable Vs. Excludable Supply. This is a simple distinction: Non-Excludable Supplies are Supplies that everyone can Connect with while Excludable Supply is Supply that only one person can connect with. So for instance everyone can watch the same youtube video, but not everyone can eat the same tuna. The youtube video is a Non-Exludable Supply while the tuna quite clearly is excludable. 
 
 The second split is about these categories: Land, natural resources, financial assets, and everything else. Now it's important to see that everything else is a rather broad category: both factories and sandwiches would be included here, but that doesn't actually matter. They can be combined into the same category and moving forward we will do so. It's also important to note that because we are making the utopian assumptions that finacial assets don't actually even exist yet. These would be stocks or bonds or whatever, but they have no reason to exist in a utopia. As with Money and Debt, they would be a detriment to Humanity and thus wouldn't exist. Land and natural resources are very important however. Land is finite and incredibly so; we can not create land. Natural resources also matter because this is the base Supply that Humanity interacts with. This is iron ore, whale oil, actual oil, water and fish in the ocean. These are finite but they are renewable; some more than others. We will talk about these four splits in Supply in various places later on.
+
+## Everything Is Connected; Nothing Is Independant
+
+# Tool:
+## The Reality Regulator:
+### Utility Wave:
+
+### Resource Tracker: 

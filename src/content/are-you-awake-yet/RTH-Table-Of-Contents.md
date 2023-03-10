@@ -32,12 +32,14 @@ tags: []
   * Logic
 * Concepts:
   * Opportunity Cost
+  * The Variables
+    * TFP
+    * The Quality Of Life Variable
+* Tool:
   * "The Economy"
     * A Slice Of The S&D Field
     * Economic Booms & Busts
     * Economic Efficiency
-  * TFP
-  * The Quality Of Life Variable
 
 ## Part 2: The Utopian Application
 * Introduction:
@@ -55,6 +57,11 @@ tags: []
   * This Is A Utopia
   * Value Trades
   * Supply Splits
+  * Everything Is Connected; Nothing Is Independant
+* Tool:
+  * The Reality Regulator
+    * Utility Wave
+    * Resource Tracker
 
 ## Part 3: The Real World Application (Private Property)
 * Introduction:
@@ -70,62 +77,67 @@ tags: []
   * Tragedy Of The Publics
   * Income & The Wealth Effect
   * The Hard Line Problems
+* Tool:
+  * Lorenz Curve
+    * Wealth Redistribution
 
-## Part 4: (Barter, Debt, & Money)
-  * Money
-  * Debt
-  * Institutions
-  * Everything Is Connected; Nothing Is Independant
-
-## Part 4: Structural Economics (Debt & Money 2.0)
+## Part 4: Money, Money, Money
 * Introduction:
-  * Money Based Debt
+  * Part Three Recap
+  * What Is Money?
   * Money Evolution
-* Explanation:
-  * Logic
+* Logic:
 * Concepts:
-  * Debt Load
-    * USA Debt Ceiling
-  * Boom Bust Cycle (7-year)
-  * "The Rate"
-  * Capitalism Vs. Communism
   * Inflation & Deflation
     * Talk about taxing through printing fiat. Why pay Taxes?
+  * QE & Financial Inflation
+* Tool:
+  * Money Map
 
-## Part 5: Generational Term Economics
+## Part 5: Debt & Financializing An Economy
 * Introduction:
-  * Why The Generational Term Matters
+  * What Is Debt?
+  * "The Rate"
+  * Financializing The Economy
+  * Banking & Fractional Reserve Banking
+* Logic:
+* Concepts:
+  * Debt Load
+  * Capitalism Vs. Communism
+    * This is actually a scale (actually way more complex lmfao) and it goes financialized capitalism - capitalism - socialism - communism
+  * The Classic Boom Bust Cycle (7-Year)
+  * The Egregious 100-Year Cycle
+    * USA Debt Ceiling
+* Tool:
+  * Debt Map
+
+## Part 6: Institutions & Systems
+* Introduction:
+  * Institutions
   * Markets & The Invisible Hand
     * Markets are just a very common institution because they are efficient at allocating resources.
 * Explanation:
   * Logic
 * Concepts:
-  * Capital Vs. Labor Output
-    * Pre and Post industrial revolution
-  * Financializing The Economy
-  * Banking & Fractional Reserve Banking
-  * The 100-Year Cycle
-  * Economics, Propertynomics, and Finance
-
-## Part 6: America's Economic Situation
-* Essays:
-  * Seeing Rather Than Defining (In Regards To The Model)
   * The Ponzi Schemes (Stock, Social Security, Pension)
   * The Military Industrial Complex
-  * QE & Financial Inflation
+  * Why Generational Time Matters
+  * Capital Vs. Labor Output
+    * Pre and Post industrial revolution
+
+## Part 7: The Current Economic Situation
+* America:
   * The Micro Booms
-  * America's Tightwalk Between Inflation & Deflation
+  * America's Tightwalk Between Hyper Inflation & Hyper Deflation
   * The Enslaved Generations & The Problem With Children
     * This is also a global problem.
-
-## Part 7: The World's Economic Situation
-* Essays:
+  * Bitcoin As A Weapon
+* The World:
+  * The World's Reserve Currency & The World Rate
   * The Disjointed Yet Combined System
     * OL: To say that the world economy is a disjointed system would be like saying the boston symphony orchestra is disjointed because every player has their own instrument.
-  * The World's Reserve Currency & The World Rate
   * The Enslaved Nations
   * The Debt Problem... Again...
-  * Bitcoin As A Weapon
 
 ## Part 8: Am I Paranoid Or Are You Just Naive?
 * Essays:
