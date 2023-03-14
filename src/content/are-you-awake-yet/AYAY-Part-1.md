@@ -1,6 +1,6 @@
 ---
 id: 120
-title: "AYAY Part One: Basics Of The Model"
+title: "AYAY Part One: Intro To The Machine"
 slug: ayay-part-1
 date: Jan 1, 2023
 img: hello-world.png
@@ -13,7 +13,7 @@ In academic economics there seems to be a fundamental misunderstanding of what i
 
 A prime example of this irrelevancy for the information taught is Solow's Growth Model. The Model was ground breaking in 1987 but explains just about nothing in regards to the real world. Solow recieved the nobel prize in 1987 for his work but I doubt much changed with the invention of his model. The model, which takes in three variables: TFP, Capital, and Labor, doesn't even include things like debt. Incase you didn't know: TFP is just the progress of technology (A higher TFP means more advanced technology). The model is essentially a basic line you would have learned in grade school. Yet Solow won the Nobel Prize in Economics for this. Why he won I'm not sure; just about nothing can be gleaned from his model. The only information that can be gleaned would be useful to a nation that existed well before the industrial revolution. The model is genuinely so worthless that I actually thought the model was invented 200 years ago. I only found out it was made in 1987 when I wrote this paragraph. However, this model is the furthest academic economics has to understanding economics. This is extremely bleak.
 
-My background is not from economics; I have a degree in computer science with minors in data science and economics. I have dipped my toes in academic economics but by no means have I swam in the pool. To be honest I'm not sure I respect academic economics enough to even sit on the side of the pool with my feet in. I don't even respect academics in regards to computer science which I firmly believe is way too focus on the minute and not on relevant information. Of course this is a critique of all of academics and a critique I believe that this is especially true for economics. 
+My background is not from economics; I have a degree in computer science with minors in data science and economics. I have dipped my toes in academic economics but by no means have I swam in the pool. To be honest I'm not sure I respect academic economics enough to even sit on the side of the pool with my feet in. I don't even respect academics in regards to computer science which I firmly believe is way too focus on the minute and not on relevant information. Of course this is a critique of all of academics, and a critique I believe is especially true for economics. 
 
 The first economics course 90% of college kids take in college is microeconomics. We can very clearly see how distraught academics is just from how microeconomics is usually taught. Microeconomics mainly focuses on a single part of economics: markets. The majority of the semester is spent dissecting the market. Especially memorizing equations about markets: how to find the equilibrium, the surplus or shortage, the elasticity of demand, etc etc. This is essentially useless information in the real world and even worse is absolutely useless information in broader economics. The only part of this information that is useful is understanding what elasticity of demand means. It is important to understand some Demand is elastic while other Demand isn't, but to memorize how to find elasticity is a waste of just about everyones time. The same can be said of shortages and surpluses; luckily finding the values for those is realatively easy. 
 
@@ -83,7 +83,7 @@ Connections between Demand and Supply take place within a moment.
 
 This is not an actual field; nor is it physical. It's simply a way for us to visualize how Humans and Reality interact. Humans make Demand for the Supply that is Reality, and if the Demand Connects with Supply then there is a change in Reality along with a change in the Utility of all Humans. The change in Utility may be big or it may be small. The majority of changes that take place will be minute and will be essentially 0. If someone kicks a rock in China will someone in America care? The answer is no, BUT they will be affected and thus there will be a utility change.
 
-The Supply and Demand Connections are not complex either. Again, this is simply a way of viewing how Humans interact with Reality. For instance if you raise you right arm you are making an S&D Connection. You are demanding your arm be raised and this connects if you raise your arm. If type on a keyboard you are Demanding your fingers move which will connect. When you pull a lever you are Demanding that the lever move. If you succeed in pulling the lever then the Demand (You) and the Supply (the lever) will have Connected. Supply and Demand Connections change the Internal Utility of all Humans and change Reality. There isn't much to understand here: Humans interact with Reality and these interactions are visualized with Supply and Demand on the S&D Field.
+The Supply and Demand Connections are not complex either. Again, this is simply a way of viewing how Humans interact with Reality. For instance if you raise your right arm you are making an S&D Connection. You are demanding your arm be raised and this connects if you raise your arm. If type on a keyboard you are Demanding your fingers move which will connect. When you pull a lever you are Demanding that the lever move. If you succeed in pulling the lever then the Demand (You) and the Supply (the lever) will have Connected. Supply and Demand Connections change the Internal Utility of all Humans and change Reality. There isn't much to understand here: Humans interact with Reality and these interactions are visualized with Supply and Demand on the S&D Field.
 
 I will refer to 'Supply and Demand' as 'S&D' and I will refer to 'Supply and Demand Connections' as 'S&DC' moving forward.
 
@@ -102,6 +102,7 @@ Here are the assumptions we are making for the model. We will go through them on
   * Humans are imperfect at viewing Reality
   * Humans have free-will
   * Humans interact with Reality based on their Subjections
+  * Humans have to take 1 action per moment in Time
 * Reality
   * Reality does not have free-will
   * Reality changes over Time
@@ -110,7 +111,7 @@ Here are the assumptions we are making for the model. We will go through them on
 * S&D Field
   * Humans and Reality interact with each other over the S&D Field
 * The Model In General
-  * The base measurements for Humans, Reality, and Time are the smallest possible measurements
+  * The base measurements for Time & Reality are the smallest possible measurements
 
 1. Humans have Subjections of Reality
 This is a rather simple assumption and I don't think there will be much conflict here. For one I think it's obvious to think any one person's view of reality is their subjective view of reality. No one idividual has the "objective" view of reality. I've genuinely never seen the opposite of this be asserted so I think this one is clear to assume.
@@ -139,7 +140,7 @@ Again, another cold take. I'm just going to move on.
 9. Humans and Reality interact with each other over the S&D Field.
 Same as 5. Not really an assumption so much as a fact.
 
-10. The base measurements for Humans, Reality, and Time are the smallest possible measurements
+10. The base measurements for Time & Reality are the smallest possible measurements
 Same as 5 and 9. This is more of a fact.
 
 This concludes the assumptions and so we can move on to proofs.
@@ -201,9 +202,9 @@ Humans are inventive
 
 Here we start with an assumption about Humans. Humans are inventive and this obviously implies that Humans will discover and invent over Time. Because Humans are inventive and this inventiveness will only improve over time then technology has to exit. This technology is TFP. We can also conclude that TFP will advance over Time.
 
-The base measurements for Humans, Reality, and Time are the smallest possible measurements && Changes in Humans and Reality occur one at a time over these smallest measurements
+The base measurements for Time & Reality are the smallest possible measurements && Changes in Humans and Reality occur one at a time over these smallest measurements
   => These smallest changes can be combined together to form an aggregate change without losing information (This is integration in calculus)
-    => Humans, Reality, and Time can be viewed at any scale with losing information (7)
+    => Humans, Reality, and Time can be viewed at any scale with out losing information (7)
 
 This proof is a really important proof and will mimic the fundamentals of calculus. The two assertions is that: One, the base measurements for the model are the smallest measurements possible. And two, that the changes in the changes in the model occur in these smallest measurements. From this we can conclude that we can combine these small changes together and form one big change without losing information. Just like how in mathematics you can combine small changes in a function to form conclusions about the function (integration). So too can you combine small changes in Humans, Reality, and the S&D Field together to form one big change.
 
@@ -231,6 +232,7 @@ Assumptions:
   * Humans are imperfect at viewing Reality
   * Humans have free-will
   * Humans interact with Reality based on their Subjections
+  * Humans take one action per moment in Time.
 * Reality
   * Reality does not have free-will
   * Reality changes over Time
@@ -239,7 +241,7 @@ Assumptions:
 * S&D Field
   * Humans and Reality interact with each other over the S&D Field
 * The Model In General
-  * The base measurements for Humans, Reality, and Time are the smallest possible measurements
+  * The base measurements for Time & Reality are the smallest possible measurements
 
 Proven:
 * Humans
@@ -251,7 +253,7 @@ Proven:
   5. The future of Reality can not be calculated if there are Humans
 * The Model In General
   6. TFP will exist and improve over Time
-  7. Humans, Reality, and Time can be viewed at any scale with losing information
+  7. Humans, Reality, and Time can be viewed at any scale with out losing information
   8. Pareto efficiency is essentially impossible
 
 Technically the inbetween facts also belong in the Proven section above. But I only included facts that actually mattered.

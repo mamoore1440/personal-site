@@ -17,11 +17,13 @@ tags: []
 * Proofs
 * Chained Proofs
 
-## Part 1: Basics Of The Model
+## Part 1: Intro To The Machine
 * Introduction:
   * Academic's Problem
+    * OL: The problem is they are viewing the economy as a function and not a state machine.
   * The Model As A Solution
   * For Now Decision Making is Random.
+  * 0L: You really don't want a hyper specific model to gauge macro with. The more abstract your tool is the better.
 * Components:
   * Reality
   * Time
@@ -38,6 +40,7 @@ tags: []
 * Tool:
   * "The Economy"
     * A Slice Of The S&D Field
+    * Utility Wave
     * Economic Booms & Busts
     * Economic Efficiency
 
@@ -57,11 +60,8 @@ tags: []
   * This Is A Utopia
   * Value Trades
   * Supply Splits
-  * Everything Is Connected; Nothing Is Independant
 * Tool:
-  * The Reality Regulator
-    * Utility Wave
-    * Resource Tracker
+  * Resource Tracker
 
 ## Part 3: The Real World Application (Private Property)
 * Introduction:
@@ -75,11 +75,19 @@ tags: []
   * Logic
 * Concepts:
   * Tragedy Of The Publics
-  * Income & The Wealth Effect
   * The Hard Line Problems
 * Tool:
   * Lorenz Curve
     * Wealth Redistribution
+
+## Part 3.5: Income?
+  * Income & The Wealth Effect
+    * Income can come from capital, labor, or the CC
+  * Capital Vs. Labor Output
+    * Pre and Post industrial revolution
+
+
+
 
 ## Part 4: Money, Money, Money
 * Introduction:
@@ -88,9 +96,17 @@ tags: []
   * Money Evolution
 * Logic:
 * Concepts:
+  * Base Money
+    * Pegged Money
+    * Devauling the base money by printing
+      * this causes all wages to go down, but during negotiations for raises to keep income the same the rich will win
+        * printing money causes the poor to lose income in the long run
   * Inflation & Deflation
     * Talk about taxing through printing fiat. Why pay Taxes?
+    * What is the inflation goal?
+    * Should we have an inflation goal?
   * QE & Financial Inflation
+  * Everything Is Connected; Nothing Is Independant
 * Tool:
   * Money Map
 
@@ -103,6 +119,8 @@ tags: []
 * Logic:
 * Concepts:
   * Debt Load
+    * This is why the economy can not stagnate. Otherwise the compounding force will drag that stagnation to a bust.
+  * Debt Jubilees
   * Capitalism Vs. Communism
     * This is actually a scale (actually way more complex lmfao) and it goes financialized capitalism - capitalism - socialism - communism
   * The Classic Boom Bust Cycle (7-Year)
@@ -122,8 +140,6 @@ tags: []
   * The Ponzi Schemes (Stock, Social Security, Pension)
   * The Military Industrial Complex
   * Why Generational Time Matters
-  * Capital Vs. Labor Output
-    * Pre and Post industrial revolution
 
 ## Part 7: The Current Economic Situation
 * America:
@@ -167,6 +183,7 @@ tags: []
     * Mein Kampt
     * The SS soldiers being literal occult super soldiers
   * You are already in 1984 and a Brave New World. But it was meant to collapse.
+  * Why has the house of representatives not been expanded in 100yrs?
 
 ## Part 9: The Social Situation
 * Essays:

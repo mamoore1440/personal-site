@@ -16,6 +16,7 @@ tags: []
   * Trust me I understand how unfair this is. Truly I feel Higher should be left to fend for themselves: they created this they should have to deal with this. But that the right thing to do. The Lower must kill them with kindness.
 
 ## The Echelon Vs. The Cattle
+* I really don't understand why the Cattle take this position. I actually love being proven wrong. Why? It means I got the correct answer for free, and it was explained to me.
 * You have to understand they are about to bomb you. The cattle will be hurt worse than you could possibly know. The economic bomb they built is massive.
 * The Echelon are not even trying any more. They are exposed so obviously, exposed so cyclically. You are meant to see them. The game is meant to collapse.
 * This is one of the reasons they start so many wars. When you are distracted by events you spend less time thinking about the system. Which means less time thinking about the pen, and, then finally, less time time asking who is the Cattle.
@@ -86,6 +87,7 @@ tags: []
     is why the two party system doesn't work. It's easy to cut in half through the middle.
 * The filter set up by the fake post WW-2 top-secret governments are amazing at catching information. I really bet that there is an at minimum 1/10th of science made secret to us.
 * They are trying to create a perpetual motion machine with the economy. What they are actually building is a nuke.
+* In America I think they unironically engineered citizens to love Europe, and I think, unfortunately, it took real strong hold in white women. This was around the time Humanity was learning about propoganda and it's success. 
 
 ## Devil's Chess Game One Liners:
 * We obviously have both the knowledge to understand the model and the technology to try usurption of basic principles. But in knowing the knowledge we would also know it's not possible. That the perpetual motion machine in both economic and finance were doomed to fail.
@@ -118,6 +120,7 @@ tags: []
   Don't ask for forgiveness for the sake of even God of even Jesus. Be selfish! Ask for forgiveness for the sake of yourself! It's not like you won't be forgive for being selfish. If being selfish saves you and has a possibility of saving others then I'm sure God and Jesus would approve.
 
 ## Heaven, Dimensions, Spirits One Liners:
+* Any economist who did sell their sole is braindead. If they thought about it for half a second they would've seen it was a STUPID idea.
 * Are you really gonna lobotomize your infinite self to help your finite self?
 * Don't be suprised when we a lot more about physics. Don't be surprised if it goes on forever. 
   * What does it say about our reality if it goes on forever?
