@@ -44,7 +44,7 @@ tags: []
     * Economic Booms & Busts
     * Economic Efficiency
 
-## Part 2: The Utopian Application
+## Part 2: The Utopian Application //Call: Demand, Demand, Demand (bc the utopian part is a minor detail)
 * Introduction:
   * Part One Recap
   * The Problem Of Decision Making
@@ -63,7 +63,7 @@ tags: []
 * Tool:
   * Resource Tracker
 
-## Part 3: The Real World Application (Private Property)
+## Part 3: The Real World Application (Private Property) //Call: Wealth, Income, & Barter
 * Introduction:
   * Part Two Recap
   * The Actual Solution For Decision Making
@@ -74,15 +74,15 @@ tags: []
 * Explanation:
   * Logic
 * Concepts:
-  * Tragedy Of The Publics
   * The Hard Line Problems
+  * Tragedy Of The Publics
 * Tool:
   * Lorenz Curve
     * Wealth Redistribution
 
 ## Part 3.5: Income?
   * Income & The Wealth Effect
-    * Income can come from capital, labor, or the CC
+    * Income can come from capital, labor, land, or the CC
   * Capital Vs. Labor Output
     * Pre and Post industrial revolution
 
@@ -126,6 +126,7 @@ tags: []
   * The Classic Boom Bust Cycle (7-Year)
   * The Egregious 100-Year Cycle
     * USA Debt Ceiling
+  * FDIC as a false savior
 * Tool:
   * Debt Map
 
@@ -154,6 +155,8 @@ tags: []
     * OL: To say that the world economy is a disjointed system would be like saying the boston symphony orchestra is disjointed because every player has their own instrument.
   * The Enslaved Nations
   * The Debt Problem... Again...
+  * Zombie Companies
+  * The Stock Market Is How People Judge The Health Of The Economy
 
 ## Part 8: Am I Paranoid Or Are You Just Naive?
 * Essays:
