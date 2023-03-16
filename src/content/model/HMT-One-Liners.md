@@ -7,6 +7,13 @@ img: hello-world.png
 tags: []
 ---
 
+## Table Of Contents Narration
+* The economic bomb is the biggest puzzle piece but is very small compared to the actual puzzle
+
+## The System Was Suppose To Fail
+* We obviously have both the knowledge to understand the model and the technology to try usurption of basic principles. But in knowing the knowledge we would also know it's not possible. That the perpetual motion machine in both economic and finance were doomed to fail.
+* All energy systems are the same. If you can create a bomb in one than you can create a bomb in the other.
+
 ## Christianity
 * Prohibition on anything that be used positively is not Christian. You are creating a Hard Line that denies the truth at times. For instance saying all weed should be banned ignores positive uses for weed. This denies the Truth and thus denies Life.
   * This applies to learning to. If denied learning about the kaballah you have denied Jesus because you have now denied learning the truth
@@ -58,8 +65,6 @@ tags: []
 * Prioritization of the whole immedietally allows for lots of prioritizing the self. Switch the order and it all falls apart. Prioritizing the self immedietally causes more prioritization to be spent on the whole. You'll have more liesure and less work in heaven.
 
 ## Sociolical One Lines:
-* Tragedy of the publics is when too much demand connects with a supply that increases Internal Utility at the expense of cohesion. THIS IS WATCHING TOO MUCH T.V.
-
 * Technology has progressed so much that the ability to live life has gone down. Before you used to be able to skip town. You used to be able to go to a different country overnight. You used to be able to drop your entire life and just start over. 
   * Schizo: Now you can't and at this point the system needs to be designed with that understanding in mind. It's a system that will fail.
 
@@ -78,7 +83,6 @@ tags: []
 * A populist leader is one that creates the hard line. When economic and financial collapse does happen it removes the percieved line from both an individual and societies reality. But a hard line is needed; some Demands when connect only hurt everyone. These Demands must be filtered and thus the hard line has to be created. Society wants a hard line and a populist leader promises one.
 
 * Modern politics is awful. The left wants you to ignore your brain but the right wants you to ignore your heart. Both are failures.
-* 
 
 ## WW3 One Liners:
 * Russia and China won't let you have a democratic republic anymore. They want you to choose a democracy or a republic. Unfortunetly both of these infinitely worse than the 
@@ -90,23 +94,15 @@ tags: []
 * In America I think they unironically engineered citizens to love Europe, and I think, unfortunately, it took real strong hold in white women. This was around the time Humanity was learning about propoganda and it's success. 
 
 ## Devil's Chess Game One Liners:
-* We obviously have both the knowledge to understand the model and the technology to try usurption of basic principles. But in knowing the knowledge we would also know it's not possible. That the perpetual motion machine in both economic and finance were doomed to fail.
 
-* The economic bomb is the biggest puzzle piece but is very small compared to the actual puzzle
 
-* You can see the Devil appointing the next horn based on the way the occult move. 
-  * Why did Trump and The Israeli Prime Minister go to the same private college?
-  * Why did Trump have a failed Insurrection just like Hitler?
-    * Learn more about Napolean. Did he also have this?
+
 
 * The Devil loves all his chess games. God hates each game but plays because he loves us.
 
 ## Life, Death, And Sin One Liners:
-* The Material hard line probem can be solved by a finite solution. The infinite problem can only be solved with a spiritual solution.
 * Post-Sin there can be a lack of Demand for certain Supplies. Pollution may need cleaning but no ones to clean it.
-
 * When someone sets up a demand filter that is faulty then they have rejected the truth and good. Only accepting Jesus will cleanse you of sin. "I am the light of this world" "I am the truth"
-
 * If we did not sin eternal life would be a utopia. But we do sin so eternal life is a living hell.
 * Death is a gift from God. Living forever would be hell.
 
@@ -120,7 +116,7 @@ tags: []
   Don't ask for forgiveness for the sake of even God of even Jesus. Be selfish! Ask for forgiveness for the sake of yourself! It's not like you won't be forgive for being selfish. If being selfish saves you and has a possibility of saving others then I'm sure God and Jesus would approve.
 
 ## Heaven, Dimensions, Spirits One Liners:
-* Any economist who did sell their sole is braindead. If they thought about it for half a second they would've seen it was a STUPID idea.
+* Any economist who did sell their soul is braindead. If they thought about it for half a second they would've seen it was a STUPID idea.
 * Are you really gonna lobotomize your infinite self to help your finite self?
 * Don't be suprised when we a lot more about physics. Don't be surprised if it goes on forever. 
   * What does it say about our reality if it goes on forever?
@@ -128,7 +124,7 @@ tags: []
 
 * They are trying to convince you that capitalism is God's system. It very much not!
   * The pre-sin system was literally communist. Only post-sin does private property exist. If you want to sin then you _have_ to own stuff.
-  * Don't be fooled and think that the current crash what God would have wanted. 
+  * Don't be fooled and think that the current crash is  God would have wanted. 
     * He wanted rates at 0%!
     * He constantly said to give to the poor.
     * AND HE KNOWS THAT ECONOMIC PMM WONT WORK!
@@ -151,13 +147,7 @@ tags: []
     * Then he proved that Humans would reject the truth by sending JEsus
       * It just so happens that Jesus also died for your sins.
 
-
-## Reality, God, Jesus One Liners:
-* A.I. could solve the hard line problem but only on the materialistic side. The sociological side can't be solved by A.I. and thus cohesion drop to 0 even in a perfectly fair world.
-* With the Devil there is good and evil, but the evil never end; and the good does. With God there is no evil and the good never ends.
-* The angels are like god's rumbas and alexas. The are meant to do tasks but are also given a spirit.
-* Jesus died even for the Echelon. "He died once for all"
-
+## Trump
 * Trump vs. Jesus' deal
   * Trump is offering one of the worst deals ever. You will want to die forever, and if you do have to assimilate it will be awful. You all aspects of yourself that make you, _you_. 
     * What happens if the AI can't comprehend something perfectly? The compounding force is an awful force. And just know Jesus is at infinity subjecting it. He can change of the fundamental laws work. "The power of positive thinking".
@@ -168,18 +158,35 @@ tags: []
     * On the Trump deal you need to consider the odds of Jesus not coming back, and what the penalty of him coming back looks like. 
       * Even if the odds are .0000000000000000000000000000000000000001 your Utility 
 
+* You can see the Devil appointing the next horn based on the way the occult move. 
+  * Why did Trump and The Israeli Prime Minister go to the same private college?
+  * Why did Trump have a failed Insurrection just like Hitler?
+    * Learn more about Napolean. Did he also have this?
+
+## HLP:
+### God As A Line Drawer In Society
+* Federalism vs Confederalism : redistribution vs entrenchment (wealth) are the same. Who should decide where the line is? Only God can do that
+  * God is Good => The Good line will be drawn.
+* The Material hard line probem can not be solved by a finite solution. The infinite problem can only be solved with a spiritual solution.
+
+### God As The Line Drawer With Good And Evil
 * God wasn't able to split reality into good and evil before sin. He didn't even want to. 
   * Lucifer created Sin and thus allowed for the split to take place.
   * God is good and thus the split is good.
-  * Humans are the on the lowest rung of the plato forms pyramid. Only in the third dimension could sin actually take place.
+  * Humans are the on the lowest rung of the plato forms pyramid. Only in the third dimension the flesh would be sinful with G/E and only Humans can procreate not the demonsbe binding too.
 
-* Federalism vs Confederalism (wealth) : redistribution vs entrenchment (wealth) are the same. Who should decide where the line is? Only God can do that
-  * God is Good => The Good line will be drawn.
-  * Creating an A.I. to draw the line is a REALLY REALLY REALLY good idea. It just doesn't work.
+### Beast Kingom
+* A.I. could solve the hard line problem but only on the materialistic side. The sociological side can't be solved by A.I. and thus cohesion drops to 0 even in a perfectly fair world.
+* Creating an A.I. to draw the line is a REALLY REALLY REALLY good idea. It just doesn't work.
     * I really bet you could get 10T years of dopamine easy. For those that think they could get 10TTT years. I really do believe you; I bet you could. But the problem is it doesn't work at infinity.
+
+
+## Reality, God, Jesus One Liners:
+* With the Devil there is good and evil, but the evil never ends; and the good does. With God there is no evil and the good never ends.
+* The angels are like god's rumbas and alexas. The are meant to do tasks but are also given a spirit.
+* Jesus died even for the Echelon. "He died once for all"
 
 * God didn't want any of you to fall that's why he didn't give you the knowledge of G/E. 
   * The devil didn't want to work with you and tried to kill you. This killed him too. 
   * God's only gonna keep those who deserve it. Every else falls.
 
-* All energy systems are the same. If you can create a bomb in one than you can create a bomb in the other.

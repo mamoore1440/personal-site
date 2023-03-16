@@ -9,10 +9,6 @@ tags: []
 
 HUMANS, MATTER AND TIME NOTES:
 
-Fold all: ctrl K, ctrl 0
-Unfold all: ctrl K, ctrl J
-
-
 ### Inflation In Gold Standard Vs. Fiat
 If the inflation is higher than the rate in the gold standard people will rush to hold gold. But if the debt is too high then you can not raise rates without creating unemployment. Because of this you either have to default or use Fiat. 
 
@@ -21,24 +17,8 @@ In Fiat you can the rate as much as you want because the rush to safety is Fiat 
 
 In both systems you do not have to worry about lowering the rate too far. That is a problem that arises later. Lowering the rate is always a boom rush initially.
 
-### SPLIT SUPPLY?
-* Land
-* Natural Resources
-* Everything else
 
-ASV is assigned to one of these (if any).
-
-### How To Use The Model:
-* Bitcoin doesn't last forever. Eventually the chain will become so big that it will not be workable. This implies there will be a need for a different currency in the future.
-
-### ECON 353 YTM Also Works For Utility
-Utility has a base price in the moment but as time and technology advances so to does the posibly gained utility. There is utility inflation. 
-
-P = I/YTM 
-U = I/YTM
-
-
-### How To Use The Model:
+### How To Use The Model: OL
 * Another benefit to the model's abstractness is that you can view real world events through the model and gain insight. Academics loves criticing media through different lenses. Little Woman through a Marxist lens; Economics through a Keynsian lens, Austrian, or Chicagoian lens. This is another lens you can view reality through.
 
 
@@ -76,52 +56,15 @@ It's a good idea to explain the model very abstractly at the start but to be rea
   * This allows more debt which brings more demand forward which which causes more boom.
   * The government doesn't want the true ending to happen. Instead we, as a society through the government, make a bet with our future and say "We'll some spend some Value now but 
     invest it properly. Then when we get to the future we'll have even more". It doesn't really ever work. I'm not sure it even could as Humans are really bad and investing. But to be fair the true game was hidden from them. Humanity doesn't know that the CD-ID spectrum exists for demand.
-  * When The Rate is high like in the 70s-80s it says Demand can only be spent if it yields 21% on SV every year. THIS IS INSANE!!!! 21% percent is unheard of. This would occur       
+  * When The Rate is high like in the 70s-80s it says Demand can only be created by Debt if it yields 21% on SV every year. THIS IS INSANE!!!! 21% percent is unheard of. This would occur       
     during 2000+ years ago. And was because of default risk not interest rate risk! America was the only one able to do it because they where the only supply post-ww2. This gave America the ability to Lower The Rate for last 40 years!
 
 * Why the 7-year 100-year cycles happens
   * The 7-year happens because the game of capitalism is to be _greedy_. Eventually this blows up beacuse the _greediness_ turns into scams. Scams arn't even SV profitable. On top of this most debt only creates SV NOT V. This eventually goes bust.
   * The 100-year cycle happens becuse society makes the bet with themselves about the future. Lowering The Rate let's us spend Value now. This only lasts so long. Eventually the bill comes due all deals we made with ourselves default. 
 
-* Debt Loads
-* QE
-* Microbooms
-
 ### Naming The 100-Year Crash
 No one even talks the 100-year cycle. The 7-year cycle is barely talked about and very much not understood. So I've never even seen this idea discused before. Ray Dalio is only person I've seen name it. It unreal to the world that 2008 should have been a of 1929 but wasn't. They don't understand what actually happened. People have never even seen the idea of a micro-boom before. To say that economy is on life support by the government in order to keep the economy alive is unreal. And to say the last 15 years were fake is going to be even harder to take in. But this envelouping cycle can only delayed never avoided. In this way the 100-year Crash has only happened twice! Napolean and Hitler
-
-### Utility Needs To Be Temporal
-Internal Utility needs to be temporal and so does Utility gained from S&D Connections. Internal Utility would have a "resting" level which would be just risidual happiness or sadness. But Utility gained from an S&D Connections would actually be a function. If you set off a nuke it would be rather fun to watch. But the nulear fallout would suck quite a bit.
-
-
-### Value Functions in a pre-sin world
-Let's ask a _very simple_ question given a Thing. What is the Value of this Thing?
-  Let's view the Thing as having Matter and assume there is Humans from Humans or Humans from CoH.
-  The question is now "Well what the Value of this Matter given there could possibly be Humans from the origins described?"
-  
-  Right off the bat we run into a problem. What does Value even mean? Does Value equate to how many Humanss couldn't be connected with Matter? I.E. only Things in a shortage have Value? Maybe Value means how many Humanss for the Matter could make connections? Does the oxygen on Earth have more Value than all the Doornobs simply because all the oxygen on Earth satisfies more Humans than all the doornobs do? Essentially there are an infinite number of ways Value could be described which means this is getting out of hand fast. 
-  
-  For now let's take a step back. Let's just assume that Value is some abstract equation about Matter and Humans of a Thing. Let's call this function V(T). Value of a Thing. And we can say V(T) is what ever we want. If we want to define Value of a Thing as how much Humans couldn't be connected with Matter (this would be shortages) than we can. We could also define Value as how many Humanss could make connections. Or even how many Humanss did make a connection. Again, lots of ways to define Value.
-
-  Easy enough definition for Value. That means we are done right? No. What moment in Time are we talking about? On the Earth before Humans existed there was no Humans. Again, only Humans Humans. If a fox eats a rabbit that is Things changing over time. That means most Value Functions are going to fail. Value is only in relation to Humans. Matter (Things) itself have no Value.
-
-  For now because we are pre-sin we can easily define Value as a Value Function. I'm going to now define Value as the maximum Utility that can be gained from Humans (Humans). If Humanity have two or more possible interactions with a specific Thing than we can say that the Value of this Thing would be the Value of Utility Maximizing interaction. 
-
-  For example.
-  1. Interaction to gain 15 Utility for Human A.
-  2. Interaction to gain 20 Utility for Human B.
-
-  Because Human B's interaction gained more Utility, 20 Utility is now the Value of the Thing in that given Time.
-
-  I think this definition would be compatible with the knowledge of Value through all of Time only because this is pre-sin. I think post-sin there is breakdown bc of a want to hoard.
-
-  All this will thrown out the window post-sin. Sin and knowledge of Value over all Time are not compatable.
-
-### Value
-* Intermoment Value is rather worthless knowledge. And outertemporal Value is also rather worthless. But interlifetime value is useful knowledge and thus is most often the actionable value.
-
-
-When you ask the question "What is the Value of a Thing?" We have to know the all information from all of time. And if in the moment any information is used to gain personal leverage (money) than the whole system collapses. Only when everyThing was in the CC did Value have a way to acceptably defined. If the Value of a Thing is known in Time t then the Thing could be hoarded (PP) changing the Value of a Thing. Did hoarding add Value to the Thing?
 
 ### SCHIZO
 You NEED to wake up early. The devil is gonna wake you up and say "Quick live forever, God will let you die". Those who choose to live forever will surely die. God doesn't care that you are going to die. He was going to give you eternal life anyways. He cares about whether you abandon sin or not. The compounding force with sin leads to death at infinity. Either you go live forever without sin in Heaven or you live forever with sin in Hell.
@@ -138,3 +81,5 @@ BMR steps
 3. Bears must get checked again
 4. Bulls believe they are unstoppable
 5. Bulls lose and the BMR fails. A drop occurs.
+
+THIS IS NORMIES

@@ -13,6 +13,8 @@ tags: []
 ## Part 0: Introduction
 * Who I Am 
 * Why I Am Writing This
+* Why This Machine
+  * Another benefit to the model's abstractness is that you can view real world events through the model and gain insight. Academics loves criticing media through different lenses. Little Woman through a Marxist lens; Economics through a Keynsian lens, Austrian, or Chicagoian lens. This is another lens you can view reality through.
 * Logic
 * Proofs
 * Chained Proofs
@@ -107,6 +109,7 @@ tags: []
     * Should we have an inflation goal?
   * QE & Financial Inflation
   * Everything Is Connected; Nothing Is Independant
+  * When Money is created you have perfect track of what Demand actually is. With barter Demand is impossible to track and hard to even just gauge. With Magnanimous it never even mattered.
 * Tool:
   * Money Map
 
@@ -114,6 +117,7 @@ tags: []
 * Introduction:
   * What Is Debt?
   * "The Rate"
+    * When The Rate is high like in the 70s-80s it says Demand can only be created by Debt if it yields 21% on SV every year. THIS IS INSANE!!!! 21% percent is unheard of. This would occur   
   * Financializing The Economy
   * Banking & Fractional Reserve Banking
 * Logic:
