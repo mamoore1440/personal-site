@@ -7,8 +7,12 @@ img: hello-world.png
 tags: []
 ---
 
+27,562 words 152,733 characters
+55 pages
+
+
 ## Call Act 1: Are You Awake Yet? (?)
-## Call Act 2: Does This Not Make More Sense? (?)
+## Call Act 2: Does This Not Make More Sense? (?) 
 
 ## Part 0: Introduction
 * Who I Am 
@@ -139,12 +143,14 @@ tags: []
   * Institutions
   * Markets & The Invisible Hand
     * Markets are just a very common institution because they are efficient at allocating resources.
+    * The problem with markets is that they can move themselves somtimes. For instance now one should be lending to the gov* but the market does anyway because subjections are so wrong. Markts are not infallive. Not even close.
+      * Also the market is very easily lied to. The more lies the market believes the worse their decesion making is
+      * *If you want to make the argument that US Bondsare "ok" because "at least it is the reserve" then sure, but why Euro then?
 * Explanation:
   * Logic
 * Concepts:
   * The Ponzi Schemes (Stock, Social Security, Pension)
   * The Military Industrial Complex
-  * Why Generational Time Matters
 
 ## Part 7: The Current Economic Situation
 * America:
@@ -157,23 +163,27 @@ tags: []
   * The World's Reserve Currency & The World Rate
   * The Disjointed Yet Combined System
     * OL: To say that the world economy is a disjointed system would be like saying the boston symphony orchestra is disjointed because every player has their own instrument.
+    * OL: The other economies are like second class economies
   * The Enslaved Nations
   * The Debt Problem... Again...
   * Zombie Companies
   * The Stock Market Is How People Judge The Health Of The Economy
+
+## Part N: Why Would They Ever Tell You The Truth When You Eat Up A Lie?
 
 ## Part 8: Am I Paranoid Or Are You Just Naive?
 * Essays:
   * 911 & Operation Northwoods
   * Oklahoma Bombing
   * MKULTRA & The Unabomber
-  * The LSD soldiers
+  * The LSD Soldiers
   * Gary Webb & The Dark Alliance
   * Social Media Surviellance
     * Facebook & The Lifelog Program
   * JFK Assassination
   * MLK Assassination
   * Snowden & Assange
+    * Snowden "White"
   * The TFP You See Is 20-50YRs Behind The TFP They Have
     * Dolly The Sheep & Cloning
   * The Catholic Church And The CIA

@@ -7,22 +7,37 @@ img: hello-world.png
 tags: []
 ---
 
+24,246 words 138,442 characters
+48 pages
+
 ## Table Of Contents Narration
 * The economic bomb is the biggest puzzle piece but is very small compared to the actual puzzle
+
+## TFP
+* As of right now Congress is passing lots and lots of bills that none of you have read. 
+  * There is even 600-800 pages bills. That's insane. That has never happened before in history.
 
 ## The System Was Suppose To Fail
 * We obviously have both the knowledge to understand the model and the technology to try usurption of basic principles. But in knowing the knowledge we would also know it's not possible. That the perpetual motion machine in both economic and finance were doomed to fail.
 * All energy systems are the same. If you can create a bomb in one than you can create a bomb in the other.
 
 ## Christianity
+* You can take the bible literally at times. God is the Logos and Christ is the Truth.
+* You're not even living in the real reality. You're living in the cave; there's nothing for you here.
 * Prohibition on anything that be used positively is not Christian. You are creating a Hard Line that denies the truth at times. For instance saying all weed should be banned ignores positive uses for weed. This denies the Truth and thus denies Life.
   * This applies to learning to. If denied learning about the kaballah you have denied Jesus because you have now denied learning the truth
 
 ## Higher Vs. Lower Generations
+* The Higher generation was born into a somewhat prosperous system. They could actually climb any ladder they wanted to. They were not born into the system we exist in now. They have no clue what it is like. Their blind ignorance to the situation creates crises so big they cause dictators. These people are Cattle in the truest form.
+  * The Pen is only failing to intoctrinate the youth because the youth see that the system has nothing to give them.
+
+* The Higher generations live easier lives. The Younger needs stimulants as children to make it through.
 * Unfortunately it's up to the Lower to show the Higher that these systems suck. The economic and social systems are awful; consider the war on drugs.
   * Trust me I understand how unfair this is. Truly I feel Higher should be left to fend for themselves: they created this they should have to deal with this. But that the right thing to do. The Lower must kill them with kindness.
 
 ## The Echelon Vs. The Cattle
+* The Cattle would lend to these bankrupt nations even though they know the debt can not be paid off. 
+* When you choose ignorance is bliss you are choosing to passively support a regime that would have killed Christ. When that dude comes back he's gonna send you to Hell.
 * I really don't understand why the Cattle take this position. I actually love being proven wrong. Why? It means I got the correct answer for free, and it was explained to me.
 * You have to understand they are about to bomb you. The cattle will be hurt worse than you could possibly know. The economic bomb they built is massive.
 * The Echelon are not even trying any more. They are exposed so obviously, exposed so cyclically. You are meant to see them. The game is meant to collapse.
@@ -45,10 +60,12 @@ tags: []
 * Cohesions gets entangled with possible S&D Connections. If D1 connects with S then D2 will lose cohesion with D1. If D2 connects with S then D1 will lose cohesion with D2.
 
 ## Econ One Liners:
+* When everything does collapse things like credit scores are not going to matter.
 * Post-Money resource allocation and ASV allocation are the same.
 * Have to talk about consumer products forcing more consumption closer in the future than would otherwise be needed.
 * Debt over 20yrs is most likely consumption debt. The chance debt is investment rather than consuption is inversly correlated to maturity
 * As TFP increases so too does the intracacy and the ability of institutions to do the three jobs
+  * TFP also removes some of the actions possible in the social game. You can not run away and start again. 
 * If today one Demand needs filtering then tomorrow two will. Sinful Demand breeds the need for a DF.
 * Pre-Sin there are two time frames to view economics. Short-term which is intra moment; and long-term which is at infinity. No other time frame inbetween matters.
 * GDP is how much Supply was exchanged in a year in terms of ASV.
@@ -65,6 +82,8 @@ tags: []
 * Prioritization of the whole immedietally allows for lots of prioritizing the self. Switch the order and it all falls apart. Prioritizing the self immedietally causes more prioritization to be spent on the whole. You'll have more liesure and less work in heaven.
 
 ## Sociolical One Lines:
+* "Democracy dies in darkness" is a braindead quote. Democracy actually dies when the Cattle watch the circus. Then a dictators pops up and all he has to do is put on a show. Why? Because the Cattle want a show, they don't want to think.
+
 * Technology has progressed so much that the ability to live life has gone down. Before you used to be able to skip town. You used to be able to go to a different country overnight. You used to be able to drop your entire life and just start over. 
   * Schizo: Now you can't and at this point the system needs to be designed with that understanding in mind. It's a system that will fail.
 
@@ -93,12 +112,20 @@ tags: []
 * They are trying to create a perpetual motion machine with the economy. What they are actually building is a nuke.
 * In America I think they unironically engineered citizens to love Europe, and I think, unfortunately, it took real strong hold in white women. This was around the time Humanity was learning about propoganda and it's success. 
 
-## Devil's Chess Game One Liners:
+## Devil:
+* Crab mentality. He knows he lost
 
 
 
 
 * The Devil loves all his chess games. God hates each game but plays because he loves us.
+
+
+## Early Church
+* This was a people not a building
+* They meet house to house
+* Why was the early church communist?
+  * When you are being capitalist you are not loving your neighbor
 
 ## Life, Death, And Sin One Liners:
 * Post-Sin there can be a lack of Demand for certain Supplies. Pollution may need cleaning but no ones to clean it.
