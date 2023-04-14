@@ -7,6 +7,10 @@ img: hello-world.png
 tags: []
 ---
 
+git remote add template https://github.com/cal-overflow/Build-A-Blog.git
+git fetch --all
+
+
 24,246 words 138,442 characters
 48 pages
 
@@ -24,7 +28,7 @@ tags: []
 ## Christianity
 * You can take the bible literally at times. God is the Logos and Christ is the Truth.
 * You're not even living in the real reality. You're living in the cave; there's nothing for you here.
-* Prohibition on anything that be used positively is not Christian. You are creating a Hard Line that denies the truth at times. For instance saying all weed should be banned ignores positive uses for weed. This denies the Truth and thus denies Life.
+* Prohibition on anything that can be used positively is not Christian. You are creating a Hard Line that denies the truth at times. For instance saying all weed should be banned ignores positive uses for weed. This denies the Truth and thus denies Life.
   * This applies to learning to. If denied learning about the kaballah you have denied Jesus because you have now denied learning the truth
 
 ## Higher Vs. Lower Generations
